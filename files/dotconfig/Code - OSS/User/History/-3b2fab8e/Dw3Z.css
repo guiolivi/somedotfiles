@@ -1,0 +1,11 @@
+input:not(.urlbar-input):not(.textbox-input):not(.form-control):not([type='checkbox']):not([type='radio']), textarea, select {
+  -moz-appearance: none !important;
+  background-color: #eee;
+  color: #111;
+}
+#identity-icon[tooltiptext="Loaded by extension: Bonjourr · Minimalist Startpage"] {
+	list-style-image: url(chrome://global/skin/icons/heart.svg) !important;
+}
+#identity-icon-label[value="Extension (Bonjourr · Minimalist Startpage)"] {
+	display: none;
+}

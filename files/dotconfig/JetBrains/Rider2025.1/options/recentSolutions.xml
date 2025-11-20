@@ -1,0 +1,26 @@
+<application>
+  <component name="RiderRecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/programming/CSharp/CS.csproj">
+          <value>
+            <RecentProjectMetaInfo displayName="CS" frameTitle="CSharp – Program.cs" opened="true" projectWorkspaceId="2xCOUlxw5YLSTAsigXsDgEviP1S">
+              <option name="activationTimestamp" value="1747453705282" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-251.25410.119" />
+              <option name="buildTimestamp" value="1746614880000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="0" y="0" width="1920" height="1042" />
+              <option name="metadata" value="CSharp|/home/gui/programming/CSharp/CS.csproj" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1747438608777" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/programming/CSharp/CS.csproj" />
+  </component>
+</application>

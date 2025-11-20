@@ -1,0 +1,2 @@
+sv_dir="/home/$USER/Pictures/SS/"
+sv_name="$(date).png"

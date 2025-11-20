@@ -1,0 +1,251 @@
+2025-05-21 11:30:27.551 [warning] Dir "/home/gui/programming/.pixi/envs" is not watchable (directory does not exist)
+2025-05-21 11:30:27.551 [error] Unable to check if shell integration is active [Error: Extension 'ms-python.python' CANNOT use API proposal: terminalDataWriteEvent.
+Its package.json#enabledApiProposals-property declares:  but NOT terminalDataWriteEvent.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at N (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:113:30038)
+	at a.onDidWriteTerminalData (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:170:39985)
+	at new v (/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:878107)
+	at ge (/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1684812)
+	at /home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688176
+	at /home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688204
+	at Se (/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688271)
+	at /home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688751
+	at we (/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688692)
+	at Pe (/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688726)
+	at /home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1685965
+	at /home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1687570
+	at Array.reduce (<anonymous>)
+	at /home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1687542
+	at /home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1687824
+	at /home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688204
+	at Se (/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688271)
+	at /home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688751
+	at we (/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688692)
+	at Pe (/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688726)
+	at /home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1685965
+	at /home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1715635
+	at /home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1715656
+	at e._get (/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1714669)
+	at e._getButThrowIfAsync (/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1714729)
+	at e.get (/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1710438)
+	at e.dynamicValue (/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1700171)
+	at /home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1686348
+	at Ee (/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1686604)
+	at Se (/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688320)
+	at /home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688751
+	at we (/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688692)
+	at Pe (/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688726)
+	at /home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1685965
+	at /home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1685899
+	at Array.map (<anonymous>)
+	at /home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1685870
+	at /home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1687570
+	at Array.reduce (<anonymous>)
+	at /home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1687542
+	at /home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1687824
+	at /home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688204
+	at Se (/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688271)
+	at /home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688751
+	at we (/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688692)
+	at Pe (/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1688726)
+	at /home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1685965
+	at /home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1715635
+	at /home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1715656
+	at e._get (/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1714669)
+	at e._getButThrowIfAsync (/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1714729)
+	at e.get (/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:1710438)
+	at a.get (/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:536740)
+	at /home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:451577
+	at async t.activateComponents (/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:449857)
+	at async /home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:2642626
+	at async e (/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:2642158)
+	at async Nb.n (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:119:13382)
+	at async Nb.m (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:119:13345)
+	at async Nb.l (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:119:12801)]
+2025-05-21 11:30:27.551 [info] Starting Environment refresh
+2025-05-21 11:30:27.551 [info] Searching for interpreters in posix paths locator
+2025-05-21 11:30:27.551 [info] Searching for pyenv environments
+2025-05-21 11:30:27.551 [info] Searching for conda environments
+2025-05-21 11:30:27.551 [info] Searching for global virtual environments
+2025-05-21 11:30:27.551 [info] Searching for custom virtual environments
+2025-05-21 11:30:27.551 [info] pyenv is not installed
+2025-05-21 11:30:27.551 [info] Finished searching for pyenv environments: 18 milliseconds
+2025-05-21 11:30:27.551 [info] Finished searching for custom virtual envs: 18 milliseconds
+2025-05-21 11:30:27.551 [info] > conda info --json
+2025-05-21 11:30:27.551 [info] > hatch env show --json
+2025-05-21 11:30:27.551 [info] cwd: .
+2025-05-21 11:30:27.551 [info] > pyenv which python
+2025-05-21 11:30:27.551 [info] cwd: .
+2025-05-21 11:30:27.551 [info] Finished searching for global virtual envs: 124 milliseconds
+2025-05-21 11:30:27.553 [info] Found: /bin/python --> /bin/python3.13
+2025-05-21 11:30:27.556 [info] Found: /bin/python3 --> /bin/python3.13
+2025-05-21 11:30:27.556 [info] Found: /bin/python3.13 --> /bin/python3.13
+2025-05-21 11:30:27.586 [info] Found: /sbin/python --> /sbin/python3.13
+2025-05-21 11:30:27.586 [info] Found: /sbin/python3 --> /sbin/python3.13
+2025-05-21 11:30:27.587 [info] Found: /sbin/python3.13 --> /sbin/python3.13
+2025-05-21 11:30:27.592 [info] Found: /usr/bin/python --> /usr/bin/python3.13
+2025-05-21 11:30:27.592 [info] Found: /usr/bin/python3 --> /usr/bin/python3.13
+2025-05-21 11:30:27.592 [info] Found: /usr/bin/python3.13 --> /usr/bin/python3.13
+2025-05-21 11:30:27.679 [info] Found: /usr/sbin/python --> /usr/sbin/python3.13
+2025-05-21 11:30:27.679 [info] Found: /usr/sbin/python3 --> /usr/sbin/python3.13
+2025-05-21 11:30:27.679 [info] Found: /usr/sbin/python3.13 --> /usr/sbin/python3.13
+2025-05-21 11:30:27.706 [info] > /bin/python -I ~/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/interpreterInfo.py
+2025-05-21 11:30:27.722 [info] > /sbin/python -I ~/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/interpreterInfo.py
+2025-05-21 11:30:27.731 [info] Finished searching for interpreters in posix paths locator: 331 milliseconds
+2025-05-21 11:30:27.739 [info] Environments refresh paths discovered (event): 340 milliseconds
+2025-05-21 11:30:27.739 [info] Environments refresh paths discovered: 340 milliseconds
+2025-05-21 11:30:27.763 [info] > /usr/bin/python -I ~/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/interpreterInfo.py
+2025-05-21 11:30:27.777 [info] > /usr/sbin/python -I ~/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/interpreterInfo.py
+2025-05-21 11:30:27.823 [info] Environments refresh finished (event): 424 milliseconds
+2025-05-21 11:30:27.841 [info] Environment refresh took 442 milliseconds
+2025-05-21 11:30:27.850 [info] Python interpreter path: /bin/python
+2025-05-21 11:30:27.857 [error] [
+  'Failed to activate a workspace, Class name = v, completed in 460ms, has a falsy return value, Arg 1: <Uri:/home/gui/programming>, Arg 2: {"started":1747837827329}, Return Value: undefined',
+  [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+  Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+   The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+  	at N (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:113:30038)
+  	at get testResults (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:170:33198)
+  	at C.activate (/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:908659)
+  	at /home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:2457
+  	at Array.map (<anonymous>)
+  	at v.activateWorkspace (/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:2447)]
+]
+2025-05-21 11:30:27.858 [error] Failure during activation. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at N (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:113:30038)
+	at get testResults (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:170:33198)
+	at C.activate (/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:908659)
+	at /home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:2457
+	at Array.map (<anonymous>)
+	at v.activateWorkspace (/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:2447)]
+2025-05-21 11:30:27.858 [error] sendStartupTelemetry() failed. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at N (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:113:30038)
+	at get testResults (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:170:33198)
+	at C.activate (/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:908659)
+	at /home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:2457
+	at Array.map (<anonymous>)
+	at v.activateWorkspace (/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/out/client/extension.js:2:2447)]
+2025-05-21 11:30:29.330 [info] Starting Jedi language server for programming.
+2025-05-21 11:30:54.820 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/saisho.py"
+2025-05-21 11:30:56.664 [info] CreateEnv Trigger - Skipping for /home/gui/programming/Python/primeiro programa/saisho.py
+2025-05-21 11:31:04.937 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/saisho.py"
+2025-05-21 11:31:20.931 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/saisho.py"
+2025-05-21 11:31:20.932 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/saisho.py"
+2025-05-21 11:31:20.933 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/saisho.py"
+2025-05-21 11:31:21.181 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/saisho.py
+2025-05-21 11:31:27.399 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/saisho.py"
+2025-05-21 11:31:46.556 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/saisho.py"
+2025-05-21 11:31:46.804 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/saisho.py
+2025-05-21 11:32:03.599 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/saisho.py"
+2025-05-21 11:32:03.847 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/saisho.py
+2025-05-21 11:32:45.169 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/saisho.py"
+2025-05-21 11:32:45.416 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/saisho.py
+2025-05-21 11:33:02.117 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/saisho.py"
+2025-05-21 11:33:02.365 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/saisho.py
+2025-05-21 11:33:10.449 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/saisho.py"
+2025-05-21 11:33:10.698 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/saisho.py
+2025-05-21 11:33:23.013 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/saisho.py"
+2025-05-21 11:33:23.262 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/saisho.py
+2025-05-21 11:34:13.594 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/saisho.py"
+2025-05-21 11:34:13.843 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/saisho.py
+2025-05-21 11:34:21.019 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/saisho.py"
+2025-05-21 11:34:21.267 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/saisho.py
+2025-05-21 11:37:26.097 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/saisho.py"
+2025-05-21 11:37:26.346 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/saisho.py
+2025-05-21 11:38:47.050 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/saisho.py"
+2025-05-21 11:38:47.299 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/saisho.py
+2025-05-21 11:39:04.599 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/saisho.py"
+2025-05-21 11:39:04.848 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/saisho.py
+2025-05-21 11:40:15.053 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/saisho.py"
+2025-05-21 11:40:15.302 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/saisho.py
+2025-05-21 11:40:40.316 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/saisho.py"
+2025-05-21 11:41:08.925 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/saisho.py"
+2025-05-21 11:41:09.174 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/saisho.py
+2025-05-21 11:42:46.386 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/saisho.py"
+2025-05-21 11:42:46.388 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/saisho.py"
+2025-05-21 11:42:46.389 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/saisho.py"
+2025-05-21 11:42:46.390 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/saisho.py"
+2025-05-21 11:42:46.392 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/saisho.py"
+2025-05-21 11:42:46.393 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/saisho.py"
+2025-05-21 11:42:46.394 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/saisho.py"
+2025-05-21 11:42:46.396 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/saisho.py"
+2025-05-21 11:42:46.634 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/saisho.py
+2025-05-21 11:42:51.977 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/saisho.py"
+2025-05-21 11:43:43.657 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/saisho.py"
+2025-05-21 11:43:43.906 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/saisho.py
+2025-05-21 11:44:15.734 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/saisho.py"
+2025-05-21 11:44:15.983 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/saisho.py
+2025-05-21 11:44:20.167 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/saisho.py
+2025-05-21 11:44:25.979 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/saisho.py"
+2025-05-21 11:45:47.831 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/saisho.py
+2025-05-21 11:46:55.926 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/saisho.py
+2025-05-21 11:47:10.577 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/saisho.py
+2025-05-21 11:53:25.149 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/saisho.py
+2025-05-21 11:54:13.087 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/saisho.py
+2025-05-21 11:54:22.927 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/saisho.py
+2025-05-21 11:55:15.692 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/saisho.py
+2025-05-21 11:55:40.798 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/saisho.py
+2025-05-21 11:56:38.317 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/saisho.py
+2025-05-21 11:58:19.989 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/saisho.py
+2025-05-21 12:00:50.752 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/saisho.py
+2025-05-21 12:42:59.601 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/saisho.py"
+2025-05-21 12:42:59.850 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/saisho.py
+2025-05-21 12:44:36.843 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/saisho.py
+2025-05-21 12:46:28.643 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/saisho.py
+2025-05-21 12:57:05.145 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/conversão.py"
+2025-05-21 12:57:05.394 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/conversão.py
+2025-05-21 12:57:11.901 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/conversão.py"
+2025-05-21 12:57:12.150 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/conversão.py
+2025-05-21 12:57:27.983 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/conversão.py"
+2025-05-21 12:57:28.232 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/conversão.py
+2025-05-21 12:57:42.133 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/conversão.py"
+2025-05-21 12:57:42.381 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/conversão.py
+2025-05-21 12:57:46.865 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/conversão.py"
+2025-05-21 12:57:47.114 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/conversão.py
+2025-05-21 12:57:51.873 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/conversão.py"
+2025-05-21 12:57:52.123 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/conversão.py
+2025-05-21 12:58:18.484 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/conversão.py"
+2025-05-21 12:58:18.733 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/conversão.py
+2025-05-21 12:58:23.131 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/conversão.py"
+2025-05-21 12:58:23.379 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/conversão.py
+2025-05-21 12:58:40.921 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/conversão.py"
+2025-05-21 12:58:41.170 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/conversão.py
+2025-05-21 12:58:56.514 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/conversão.py"
+2025-05-21 12:58:56.762 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/conversão.py
+2025-05-21 12:59:46.442 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/conversão.py"
+2025-05-21 12:59:46.691 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/conversão.py
+2025-05-21 12:59:52.586 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/conversão.py"
+2025-05-21 13:00:39.622 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/conversão.py"
+2025-05-21 13:00:39.871 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/conversão.py
+2025-05-21 13:01:13.552 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/conversão.py
+2025-05-21 13:01:14.698 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/conversão.py"
+2025-05-21 13:01:45.534 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/conversão.py"
+2025-05-21 13:01:45.783 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/conversão.py
+2025-05-21 13:01:53.892 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/conversão.py"
+2025-05-21 13:01:54.141 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/conversão.py
+2025-05-21 13:01:58.891 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/conversão.py"
+2025-05-21 13:01:59.141 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/conversão.py
+2025-05-21 13:02:14.366 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/conversão.py"
+2025-05-21 13:02:14.615 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/conversão.py
+2025-05-21 13:45:56.041 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/print_input.py"
+2025-05-21 13:45:56.290 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/print_input.py
+2025-05-21 13:46:14.630 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/print_input.py"
+2025-05-21 13:46:14.879 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/print_input.py
+2025-05-21 13:46:45.574 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/print_input.py"
+2025-05-21 13:46:45.576 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/print_input.py"
+2025-05-21 13:46:45.820 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/print_input.py
+2025-05-21 13:46:49.873 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/print_input.py"
+2025-05-21 13:47:25.752 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/print_input.py"
+2025-05-21 13:47:26.001 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/print_input.py
+2025-05-21 13:48:31.397 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/print_input.py"
+2025-05-21 13:48:31.399 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/print_input.py"
+2025-05-21 13:48:31.646 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/print_input.py
+2025-05-21 13:48:39.691 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/print_input.py"
+2025-05-21 13:49:05.103 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/print_input.py"
+2025-05-21 13:49:05.352 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/print_input.py
+2025-05-21 13:49:20.460 [info] Send text to terminal: /bin/python "/home/gui/programming/Python/primeiro programa/print_input.py"
+2025-05-21 13:49:20.709 [info] Discover tests for workspace name: programming - uri: /home/gui/programming/Python/primeiro programa/print_input.py

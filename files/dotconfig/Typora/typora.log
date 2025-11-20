@@ -1,0 +1,3022 @@
+INFO 5/17/2025, 12:52:23 PM  launch with argv [/usr/share/typora/Typora]
+INFO 5/17/2025, 12:52:23 PM  ------------------start------------------
+DEBUG 5/17/2025, 12:52:23 PM  prepDatabase /home/gui/.config/Typora/profile.data
+DEBUG 5/17/2025, 12:52:23 PM  prepDatabase /home/gui/.config/Typora/history.data
+INFO 5/17/2025, 12:52:23 PM  OS is linux 6.14.5-arch1-1
+INFO 5/17/2025, 12:52:23 PM  launchFromDiffVersion, pre version is undefined
+INFO 5/17/2025, 12:52:23 PM  start LM in devVersion=false
+INFO 5/17/2025, 12:52:23 PM  [watch L]
+DEBUG 5/17/2025, 12:52:23 PM  prepDatabase /home/gui/.config/Typora/SX6SalfPSx
+INFO 5/17/2025, 12:52:23 PM  ls put SLicense
+DEBUG 5/17/2025, 12:52:23 PM  onUnfillLicense
+DEBUG 5/17/2025, 12:52:23 PM  trailRemains is 15
+INFO 5/17/2025, 12:52:23 PM  [L] installDate is 5/17/2025, trail remains: 15 days
+INFO 5/17/2025, 12:52:23 PM  [watch L] hasL: false
+INFO 5/17/2025, 12:52:23 PM  overwriteThemeFolder
+INFO 5/17/2025, 12:52:23 PM  typora version: 1.10.8
+DEBUG 5/17/2025, 12:52:23 PM  app.openFile
+DEBUG 5/17/2025, 12:52:23 PM  added recovery 1 null  (0)
+DEBUG 5/17/2025, 12:52:23 PM  putAccelerator File -> &File
+DEBUG 5/17/2025, 12:52:23 PM  putAccelerator Edit -> &Edit
+DEBUG 5/17/2025, 12:52:23 PM  putAccelerator Paragraph -> &Paragraph
+DEBUG 5/17/2025, 12:52:23 PM  putAccelerator Format -> F&ormat
+DEBUG 5/17/2025, 12:52:23 PM  putAccelerator View -> &View
+DEBUG 5/17/2025, 12:52:23 PM  putAccelerator Themes -> &Themes
+DEBUG 5/17/2025, 12:52:23 PM  putAccelerator Help -> &Help
+INFO 5/17/2025, 12:52:23 PM  [focus] 1
+INFO 5/17/2025, 12:52:23 PM  synced recovery
+user-dict.json not found
+DEBUG 5/17/2025, 12:52:24 PM  onUnfillLicense
+ERROR 5/17/2025, 12:52:24 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 12:52:24 PM  handle document.loadData
+DEBUG 5/17/2025, 12:52:24 PM  document.loadData 0
+ERROR 5/17/2025, 12:52:24 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 12:52:24 PM  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 5/17/2025, 12:52:24 PM  [RenderProcess 1][Log] reset NodeMap
+DEBUG 5/17/2025, 12:52:24 PM  added recovery 1   (0)
+INFO 5/17/2025, 12:52:24 PM  synced recovery
+INFO 5/17/2025, 12:52:25 PM  [RenderProcess 1][Log] onBecomeActive
+INFO 5/17/2025, 12:52:25 PM  [RenderProcess 1][Log] File.activeWindow = true
+DEBUG 5/17/2025, 12:52:27 PM  added recovery 1  asdwda (6)
+INFO 5/17/2025, 12:52:27 PM  synced recovery
+DEBUG 5/17/2025, 12:52:29 PM  added recovery 1   (0)
+INFO 5/17/2025, 12:52:29 PM  synced recovery
+DEBUG 5/17/2025, 12:52:35 PM  added recovery 1   (0)
+INFO 5/17/2025, 12:52:35 PM  synced recovery
+ERROR 5/17/2025, 12:52:42 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 12:52:42 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 12:52:44 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 12:52:44 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 12:52:44 PM  updateTheme
+ERROR 5/17/2025, 12:52:44 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 12:52:44 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 12:52:45 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 12:52:45 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 12:52:45 PM  updateTheme
+ERROR 5/17/2025, 12:52:45 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 12:52:45 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 12:52:46 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 12:52:46 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 12:52:47 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 12:52:47 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 12:52:49 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 12:52:49 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 12:52:50 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 12:52:50 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 12:52:50 PM  updateTheme
+ERROR 5/17/2025, 12:52:50 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 12:52:50 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+DEBUG 5/17/2025, 12:52:53 PM  added recovery 1   (0)
+INFO 5/17/2025, 12:52:53 PM  synced recovery
+ERROR 5/17/2025, 12:52:53 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 12:52:53 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 12:52:53 PM  updateTheme
+ERROR 5/17/2025, 12:52:53 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 12:52:53 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+DEBUG 5/17/2025, 12:52:54 PM  added recovery 1  wadsd (5)
+INFO 5/17/2025, 12:52:54 PM  synced recovery
+DEBUG 5/17/2025, 12:52:55 PM  added recovery 1   (0)
+INFO 5/17/2025, 12:52:55 PM  synced recovery
+ERROR 5/17/2025, 12:52:56 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 12:52:56 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+DEBUG 5/17/2025, 12:52:58 PM  added recovery 1  dadwad (6)
+INFO 5/17/2025, 12:52:58 PM  synced recovery
+INFO 5/17/2025, 12:52:58 PM  [blur] 1
+INFO 5/17/2025, 12:52:58 PM  [win] blur
+DEBUG 5/17/2025, 12:52:58 PM  added recovery 1  asd (3)
+INFO 5/17/2025, 12:52:58 PM  synced recovery
+INFO 5/17/2025, 12:52:58 PM  [focus] 1
+INFO 5/17/2025, 12:52:59 PM  [blur] 1
+INFO 5/17/2025, 12:52:59 PM  [win] blur
+INFO 5/17/2025, 12:53:00 PM  [focus] 1
+INFO 5/17/2025, 12:53:00 PM  [blur] 1
+INFO 5/17/2025, 12:53:00 PM  [win] blur
+INFO 5/17/2025, 12:53:00 PM  [focus] 1
+INFO 5/17/2025, 12:53:00 PM  [blur] 1
+INFO 5/17/2025, 12:53:00 PM  [win] blur
+INFO 5/17/2025, 12:53:00 PM  [focus] 1
+DEBUG 5/17/2025, 12:53:02 PM  added recovery 1  asd
+
+asdasdasd (14)
+INFO 5/17/2025, 12:53:02 PM  synced recovery
+ERROR 5/17/2025, 12:53:04 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 12:53:04 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 12:53:06 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 12:53:06 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 12:53:07 PM  updateTheme
+ERROR 5/17/2025, 12:53:07 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 12:53:07 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 12:53:10 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 12:53:10 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+DEBUG 5/17/2025, 12:53:10 PM  added recovery 1   (0)
+INFO 5/17/2025, 12:53:10 PM  synced recovery
+INFO 5/17/2025, 12:53:10 PM  updateTheme
+ERROR 5/17/2025, 12:53:10 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 12:53:10 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+DEBUG 5/17/2025, 12:53:11 PM  added recovery 1  asdasd (6)
+INFO 5/17/2025, 12:53:11 PM  synced recovery
+DEBUG 5/17/2025, 12:53:13 PM  added recovery 1   (0)
+INFO 5/17/2025, 12:53:13 PM  synced recovery
+DEBUG 5/17/2025, 12:53:17 PM  added recovery 1  asddasd (7)
+INFO 5/17/2025, 12:53:17 PM  synced recovery
+DEBUG 5/17/2025, 12:53:19 PM  added recovery 1   (0)
+INFO 5/17/2025, 12:53:19 PM  synced recovery
+DEBUG 5/17/2025, 12:53:24 PM  added recovery 1  wasd (4)
+INFO 5/17/2025, 12:53:24 PM  synced recovery
+DEBUG 5/17/2025, 12:53:27 PM  added recovery 1  wasda
+
+sdasdasd (15)
+INFO 5/17/2025, 12:53:27 PM  synced recovery
+DEBUG 5/17/2025, 12:53:29 PM  added recovery 1  wasda
+
+sdasdasdasdasd (21)
+INFO 5/17/2025, 12:53:29 PM  synced recovery
+DEBUG 5/17/2025, 12:53:40 PM  added recovery 1   (0)
+INFO 5/17/2025, 12:53:40 PM  synced recovery
+DEBUG 5/17/2025, 12:54:05 PM  added recovery 1  aaaaaaaaaaaa (12)
+INFO 5/17/2025, 12:54:05 PM  synced recovery
+DEBUG 5/17/2025, 12:54:08 PM  added recovery 1  "aaaaaaaaaaaaaaa...aaaaaaaaaaaaaaa" (86)
+INFO 5/17/2025, 12:54:08 PM  synced recovery
+DEBUG 5/17/2025, 12:54:11 PM  added recovery 1  "aaaaaaaaaaaaaaa...aaaaaaaaaaaaaaa" (154)
+INFO 5/17/2025, 12:54:11 PM  synced recovery
+DEBUG 5/17/2025, 12:54:12 PM  added recovery 1  asdwdasodj (10)
+INFO 5/17/2025, 12:54:12 PM  synced recovery
+DEBUG 5/17/2025, 12:54:13 PM  added recovery 1  asdwdasodj
+
+asdowadosjdo (24)
+INFO 5/17/2025, 12:54:13 PM  synced recovery
+DEBUG 5/17/2025, 12:54:24 PM  added recovery 1   (0)
+INFO 5/17/2025, 12:54:24 PM  synced recovery
+DEBUG 5/17/2025, 12:54:26 PM  execForAll
+INFO 5/17/2025, 12:54:26 PM  File.option.noWarnigForTypeWriterMode=true;
+DEBUG 5/17/2025, 12:54:31 PM  added recovery 1  a (1)
+INFO 5/17/2025, 12:54:31 PM  synced recovery
+DEBUG 5/17/2025, 12:54:36 PM  added recovery 1   (0)
+INFO 5/17/2025, 12:54:36 PM  synced recovery
+INFO 5/17/2025, 12:54:48 PM  window.File && (function() {
+					ClientCommand.resetZoom();
+				})();
+DEBUG 5/17/2025, 12:54:50 PM  added recovery 1  asdasdasd (9)
+INFO 5/17/2025, 12:54:50 PM  synced recovery
+INFO 5/17/2025, 12:54:54 PM  window.File && (function() {
+					ClientCommand.resetZoom();
+				})();
+INFO 5/17/2025, 12:54:57 PM  window.File && (function() {
+					ClientCommand.resetZoom();
+				})();
+DEBUG 5/17/2025, 12:54:58 PM  execForAll
+INFO 5/17/2025, 12:54:58 PM  window.File && (function(){ClientCommand.resetZoom()})();
+DEBUG 5/17/2025, 12:55:00 PM  added recovery 1  asdasdasd (9)
+INFO 5/17/2025, 12:55:00 PM  synced recovery
+DEBUG 5/17/2025, 12:55:00 PM  execForAll
+INFO 5/17/2025, 12:55:00 PM  window.File && (function(){ClientCommand.zoomIn()})();
+DEBUG 5/17/2025, 12:55:02 PM  execForAll
+INFO 5/17/2025, 12:55:02 PM  window.File && (function(){ClientCommand.zoomOut()})();
+DEBUG 5/17/2025, 12:55:26 PM  added recovery 1   (0)
+INFO 5/17/2025, 12:55:26 PM  synced recovery
+DEBUG 5/17/2025, 12:55:40 PM  added recovery 1   (0)
+INFO 5/17/2025, 12:55:40 PM  synced recovery
+DEBUG 5/17/2025, 12:56:03 PM  app.openFile
+INFO 5/17/2025, 12:56:03 PM  addRecentDocument
+DEBUG 5/17/2025, 12:56:03 PM  added recovery 2 /usr/share/typora/resources/Docs/Custom Themes.md  (0)
+INFO 5/17/2025, 12:56:03 PM  synced recovery
+INFO 5/17/2025, 12:56:03 PM  [blur] 1
+INFO 5/17/2025, 12:56:03 PM  [win] blur
+INFO 5/17/2025, 12:56:03 PM  [focus] 2
+DEBUG 5/17/2025, 12:56:03 PM  onUnfillLicense
+ERROR 5/17/2025, 12:56:03 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 12:56:03 PM  handle document.loadData
+DEBUG 5/17/2025, 12:56:03 PM  document.loadData 0
+ERROR 5/17/2025, 12:56:03 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 12:56:03 PM  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 5/17/2025, 12:56:03 PM  [RenderProcess 2][Log] reset NodeMap
+INFO 5/17/2025, 12:56:03 PM  [RenderProcess 2][Log] readContentFrom /usr/share/typora/resources/Docs/Custom Themes.md
+DEBUG 5/17/2025, 12:56:03 PM  added recovery 2 /usr/share/typora/resources/Docs/Custom Themes.md  (0)
+INFO 5/17/2025, 12:56:03 PM  synced recovery
+INFO 5/17/2025, 12:56:04 PM  [RenderProcess 2][Log] onBecomeActive
+INFO 5/17/2025, 12:56:04 PM  [RenderProcess 2][Log] File.activeWindow = true
+DEBUG 5/17/2025, 12:56:14 PM  execForAll
+INFO 5/17/2025, 12:56:14 PM  File.option.noHintForOpenLink=true;
+INFO 5/17/2025, 12:56:40 PM  [blur] 2
+INFO 5/17/2025, 12:56:40 PM  [win] blur
+INFO 5/17/2025, 12:59:21 PM  [focus] 2
+INFO 5/17/2025, 12:59:23 PM  [blur] 2
+INFO 5/17/2025, 12:59:23 PM  [win] blur
+INFO 5/17/2025, 12:59:23 PM  [focus] 1
+DEBUG 5/17/2025, 12:59:25 PM  added recovery 1  asdwdas (7)
+INFO 5/17/2025, 12:59:25 PM  synced recovery
+DEBUG 5/17/2025, 12:59:27 PM  license.show (detail ? undefined)
+INFO 5/17/2025, 12:59:27 PM  [blur] 1
+INFO 5/17/2025, 12:59:27 PM  [win] blur
+INFO 5/17/2025, 12:59:27 PM  [focus] 3
+INFO 5/17/2025, 12:59:28 PM  [blur] 3
+INFO 5/17/2025, 12:59:28 PM  [focus] 1
+INFO 5/17/2025, 12:59:28 PM  [blur] 1
+INFO 5/17/2025, 12:59:28 PM  [win] blur
+INFO 5/17/2025, 12:59:28 PM  [focus] 3
+INFO 5/17/2025, 12:59:31 PM  [focus] 1
+INFO 5/17/2025, 12:59:31 PM  [blur] 1
+INFO 5/17/2025, 12:59:31 PM  [win] blur
+INFO 5/17/2025, 12:59:31 PM  [focus] 1
+INFO 5/17/2025, 12:59:44 PM  [blur] 1
+INFO 5/17/2025, 12:59:44 PM  [win] blur
+INFO 5/17/2025, 12:59:44 PM  [focus] 2
+INFO 5/17/2025, 12:59:55 PM  [focus] 1
+INFO 5/17/2025, 12:59:55 PM  [blur] 1
+INFO 5/17/2025, 12:59:55 PM  [win] blur
+INFO 5/17/2025, 12:59:55 PM  [focus] 1
+DEBUG 5/17/2025, 12:59:57 PM  added recovery 1   (0)
+INFO 5/17/2025, 12:59:57 PM  synced recovery
+INFO 5/17/2025, 12:59:59 PM  [blur] 1
+INFO 5/17/2025, 12:59:59 PM  [win] blur
+INFO 5/17/2025, 1:00:25 PM  [focus] 1
+INFO 5/17/2025, 1:00:30 PM  [blur] 1
+INFO 5/17/2025, 1:00:30 PM  [win] blur
+INFO 5/17/2025, 1:00:33 PM  [focus] 1
+INFO 5/17/2025, 1:00:39 PM  [blur] 1
+INFO 5/17/2025, 1:00:39 PM  [win] blur
+INFO 5/17/2025, 1:00:45 PM  [focus] 1
+INFO 5/17/2025, 1:02:41 PM  got argv [/usr/share/typora/Typora, --allow-file-access-from-files, --desktop-startup-id=rofi/typora/24965-0-usagi_TIME2421427] from secondary instance
+DEBUG 5/17/2025, 1:02:41 PM  app.openFile
+DEBUG 5/17/2025, 1:02:41 PM  added recovery 4 null  (0)
+INFO 5/17/2025, 1:02:41 PM  got argv [/usr/share/typora/Typora, --allow-file-access-from-files, --desktop-startup-id=rofi/typora/25016-0-usagi_TIME2431419] from secondary instance
+DEBUG 5/17/2025, 1:02:41 PM  app.openFile
+DEBUG 5/17/2025, 1:02:41 PM  added recovery 5 null  (0)
+INFO 5/17/2025, 1:02:41 PM  [blur] 1
+INFO 5/17/2025, 1:02:41 PM  [win] blur
+INFO 5/17/2025, 1:02:41 PM  synced recovery
+INFO 5/17/2025, 1:02:41 PM  synced recovery
+INFO 5/17/2025, 1:02:41 PM  [focus] 1
+INFO 5/17/2025, 1:02:41 PM  [blur] 1
+INFO 5/17/2025, 1:02:41 PM  [win] blur
+INFO 5/17/2025, 1:02:41 PM  [focus] 1
+INFO 5/17/2025, 1:02:41 PM  [blur] 1
+INFO 5/17/2025, 1:02:41 PM  [win] blur
+INFO 5/17/2025, 1:02:41 PM  [focus] 1
+INFO 5/17/2025, 1:02:41 PM  [blur] 1
+INFO 5/17/2025, 1:02:41 PM  [win] blur
+INFO 5/17/2025, 1:02:41 PM  [focus] 1
+INFO 5/17/2025, 1:02:41 PM  [blur] 1
+INFO 5/17/2025, 1:02:41 PM  [win] blur
+INFO 5/17/2025, 1:02:41 PM  [focus] 4
+INFO 5/17/2025, 1:02:41 PM  [blur] 4
+INFO 5/17/2025, 1:02:41 PM  [win] blur
+INFO 5/17/2025, 1:02:41 PM  [focus] 5
+INFO 5/17/2025, 1:02:41 PM  secondary instance would exit
+INFO 5/17/2025, 1:02:42 PM  ------------------start------------------
+DEBUG 5/17/2025, 1:02:42 PM  prepDatabase /home/gui/.config/Typora/profile.data
+DEBUG 5/17/2025, 1:02:42 PM  prepDatabase /home/gui/.config/Typora/history.data
+INFO 5/17/2025, 1:02:42 PM  OS is linux 6.14.5-arch1-1
+INFO 5/17/2025, 1:02:42 PM  start LM in devVersion=false
+INFO 5/17/2025, 1:02:42 PM  [watch L]
+DEBUG 5/17/2025, 1:02:42 PM  prepDatabase /home/gui/.config/Typora/SX6SalfPSx
+INFO 5/17/2025, 1:02:42 PM  ls put SLicense
+DEBUG 5/17/2025, 1:02:42 PM  onUnfillLicense
+DEBUG 5/17/2025, 1:02:42 PM  trailRemains is 15
+INFO 5/17/2025, 1:02:42 PM  [L] installDate is 5/17/2025, trail remains: 15 days
+INFO 5/17/2025, 1:02:42 PM  [watch L] hasL: false
+INFO 5/17/2025, 1:02:42 PM  typora version: 1.10.8
+user-dict.json not found
+INFO 5/17/2025, 1:02:42 PM  launch from abnormal quit
+INFO 5/17/2025, 1:02:42 PM  cleanupOlderCache
+DEBUG 5/17/2025, 1:02:42 PM  putAccelerator File -> &File
+DEBUG 5/17/2025, 1:02:42 PM  putAccelerator Edit -> &Edit
+DEBUG 5/17/2025, 1:02:42 PM  putAccelerator Paragraph -> &Paragraph
+DEBUG 5/17/2025, 1:02:42 PM  putAccelerator Format -> F&ormat
+DEBUG 5/17/2025, 1:02:42 PM  putAccelerator View -> &View
+DEBUG 5/17/2025, 1:02:42 PM  putAccelerator Themes -> &Themes
+DEBUG 5/17/2025, 1:02:42 PM  putAccelerator Help -> &Help
+INFO 5/17/2025, 1:02:41 PM  secondary instance would exit
+INFO 5/17/2025, 1:02:42 PM  ------------------start------------------
+DEBUG 5/17/2025, 1:02:42 PM  prepDatabase /home/gui/.config/Typora/profile.data
+DEBUG 5/17/2025, 1:02:42 PM  prepDatabase /home/gui/.config/Typora/history.data
+INFO 5/17/2025, 1:02:42 PM  OS is linux 6.14.5-arch1-1
+INFO 5/17/2025, 1:02:42 PM  start LM in devVersion=false
+INFO 5/17/2025, 1:02:42 PM  recoverWindow {"id":1,"path":"","untitledId":1747497144714,"type":"","useCRLF":false,"hasUnsaved":true,"scrollPos":0,"syncDate":1747497597755,"bound":{"fullscreen":false,"maximized":false,"x":0,"y":0,"width":1920,"height":1042}}
+INFO 5/17/2025, 1:02:42 PM  recoverWindow {"id":4,"path":null}
+DEBUG 5/17/2025, 1:02:42 PM  app.openFile
+INFO 5/17/2025, 1:02:42 PM  recoverWindow {"id":5,"path":null}
+DEBUG 5/17/2025, 1:02:42 PM  app.openFile
+INFO 5/17/2025, 1:02:42 PM  [watch L]
+DEBUG 5/17/2025, 1:02:42 PM  prepDatabase /home/gui/.config/Typora/SX6SalfPSx
+INFO 5/17/2025, 1:02:42 PM  ls put SLicense
+DEBUG 5/17/2025, 1:02:42 PM  onUnfillLicense
+DEBUG 5/17/2025, 1:02:42 PM  trailRemains is 15
+INFO 5/17/2025, 1:02:42 PM  [L] installDate is 5/17/2025, trail remains: 15 days
+INFO 5/17/2025, 1:02:42 PM  [watch L] hasL: false
+INFO 5/17/2025, 1:02:42 PM  typora version: 1.10.8
+user-dict.json not found
+INFO 5/17/2025, 1:02:42 PM  launch from abnormal quit
+INFO 5/17/2025, 1:02:42 PM  cleanupOlderCache
+DEBUG 5/17/2025, 1:02:42 PM  putAccelerator File -> &File
+DEBUG 5/17/2025, 1:02:42 PM  putAccelerator Edit -> &Edit
+DEBUG 5/17/2025, 1:02:42 PM  putAccelerator Paragraph -> &Paragraph
+DEBUG 5/17/2025, 1:02:42 PM  putAccelerator Format -> F&ormat
+DEBUG 5/17/2025, 1:02:42 PM  putAccelerator View -> &View
+DEBUG 5/17/2025, 1:02:42 PM  putAccelerator Themes -> &Themes
+DEBUG 5/17/2025, 1:02:42 PM  putAccelerator Help -> &Help
+INFO 5/17/2025, 1:02:42 PM  recoverWindow {"id":1,"path":"","untitledId":1747497144714,"type":"","useCRLF":false,"hasUnsaved":true,"scrollPos":0,"syncDate":1747497597755,"bound":{"fullscreen":false,"maximized":false,"x":0,"y":0,"width":1920,"height":1042}}
+INFO 5/17/2025, 1:02:42 PM  recoverWindow {"id":4,"path":null}
+DEBUG 5/17/2025, 1:02:42 PM  app.openFile
+INFO 5/17/2025, 1:02:42 PM  recoverWindow {"id":5,"path":null}
+DEBUG 5/17/2025, 1:02:42 PM  app.openFile
+DEBUG 5/17/2025, 1:02:42 PM  added recovery 1 null  (0)
+INFO 5/17/2025, 1:02:42 PM  [blur] 5
+INFO 5/17/2025, 1:02:42 PM  [win] blur
+DEBUG 5/17/2025, 1:02:42 PM  added recovery 2 null  (0)
+DEBUG 5/17/2025, 1:02:42 PM  added recovery 1 null  (0)
+INFO 5/17/2025, 1:02:42 PM  [focus] 1
+INFO 5/17/2025, 1:02:42 PM  [1] recover from content 0 
+INFO 5/17/2025, 1:02:42 PM  skip due to empty untitled file
+DEBUG 5/17/2025, 1:02:42 PM  added recovery 2 null  (0)
+INFO 5/17/2025, 1:02:42 PM  [1] recover from content 0 
+INFO 5/17/2025, 1:02:42 PM  skip due to empty untitled file
+INFO 5/17/2025, 1:02:42 PM  [blur] 1
+INFO 5/17/2025, 1:02:42 PM  [win] blur
+INFO 5/17/2025, 1:02:42 PM  [focus] 2
+INFO 5/17/2025, 1:02:42 PM  [blur] 2
+INFO 5/17/2025, 1:02:42 PM  [win] blur
+INFO 5/17/2025, 1:02:42 PM  synced recovery
+INFO 5/17/2025, 1:02:42 PM  synced recovery
+INFO 5/17/2025, 1:02:42 PM  [focus] 1
+INFO 5/17/2025, 1:02:42 PM  [blur] 1
+INFO 5/17/2025, 1:02:42 PM  [win] blur
+INFO 5/17/2025, 1:02:42 PM  [focus] 2
+INFO 5/17/2025, 1:02:42 PM  synced recovery
+INFO 5/17/2025, 1:02:42 PM  synced recovery
+DEBUG 5/17/2025, 1:02:42 PM  onUnfillLicense
+DEBUG 5/17/2025, 1:02:42 PM  onUnfillLicense
+INFO 5/17/2025, 1:02:42 PM  handle document.loadData
+DEBUG 5/17/2025, 1:02:42 PM  document.loadData 0
+INFO 5/17/2025, 1:02:42 PM  handle document.loadData
+DEBUG 5/17/2025, 1:02:42 PM  document.loadData 0
+ERROR 5/17/2025, 1:02:42 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:02:42 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:02:42 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:02:42 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 1:02:42 PM  [RenderProcess 6][Log] [UndoManager] reset commandStack
+INFO 5/17/2025, 1:02:42 PM  [RenderProcess 6][Log] reset NodeMap
+INFO 5/17/2025, 1:02:42 PM  [RenderProcess 5][Log] [UndoManager] reset commandStack
+INFO 5/17/2025, 1:02:42 PM  [RenderProcess 5][Log] reset NodeMap
+DEBUG 5/17/2025, 1:02:42 PM  added recovery 5   (0)
+INFO 5/17/2025, 1:02:42 PM  synced recovery
+DEBUG 5/17/2025, 1:02:42 PM  added recovery 4   (0)
+INFO 5/17/2025, 1:02:42 PM  synced recovery
+INFO 5/17/2025, 1:02:42 PM  [RenderProcess 6][Log] onBecomeActive
+INFO 5/17/2025, 1:02:42 PM  [RenderProcess 6][Log] File.activeWindow = true
+INFO 5/17/2025, 1:02:42 PM  [RenderProcess 5][Log] onBecomeActive
+INFO 5/17/2025, 1:02:42 PM  [RenderProcess 5][Log] File.activeWindow = true
+INFO 5/17/2025, 1:02:43 PM  [focus] 4
+INFO 5/17/2025, 1:02:43 PM  [blur] 4
+INFO 5/17/2025, 1:02:43 PM  [win] blur
+INFO 5/17/2025, 1:02:43 PM  [focus] 5
+INFO 5/17/2025, 1:02:44 PM  [focus] 4
+INFO 5/17/2025, 1:02:44 PM  [blur] 4
+INFO 5/17/2025, 1:02:44 PM  [win] blur
+INFO 5/17/2025, 1:02:44 PM  [focus] 4
+INFO 5/17/2025, 1:02:44 PM  [focus] 1
+INFO 5/17/2025, 1:02:44 PM  [blur] 1
+INFO 5/17/2025, 1:02:44 PM  [win] blur
+INFO 5/17/2025, 1:02:44 PM  [focus] 1
+INFO 5/17/2025, 1:02:46 PM  [blur] 1
+INFO 5/17/2025, 1:02:46 PM  [win] blur
+DEBUG 5/17/2025, 1:02:46 PM  added recovery 1  d (1)
+INFO 5/17/2025, 1:02:46 PM  synced recovery
+INFO 5/17/2025, 1:02:48 PM  [focus] 1
+INFO 5/17/2025, 1:02:48 PM  [blur] 1
+INFO 5/17/2025, 1:02:48 PM  [win] blur
+INFO 5/17/2025, 1:02:48 PM  [focus] 1
+INFO 5/17/2025, 1:02:48 PM  [blur] 1
+INFO 5/17/2025, 1:02:48 PM  [win] blur
+INFO 5/17/2025, 1:02:48 PM  [focus] 1
+INFO 5/17/2025, 1:02:50 PM  [blur] 1
+INFO 5/17/2025, 1:02:50 PM  [win] blur
+DEBUG 5/17/2025, 1:02:50 PM  added recovery 1  d
+
+adwdad (9)
+INFO 5/17/2025, 1:02:50 PM  synced recovery
+INFO 5/17/2025, 1:02:52 PM  [focus] 1
+INFO 5/17/2025, 1:02:52 PM  [blur] 1
+INFO 5/17/2025, 1:02:52 PM  [win] blur
+INFO 5/17/2025, 1:02:52 PM  [focus] 1
+DEBUG 5/17/2025, 1:02:53 PM  added recovery 1  d
+
+adwdad
+
+asdwadsda (20)
+INFO 5/17/2025, 1:02:53 PM  synced recovery
+DEBUG 5/17/2025, 1:02:56 PM  added recovery 1  asdazxcwd (9)
+INFO 5/17/2025, 1:02:56 PM  synced recovery
+DEBUG 5/17/2025, 1:02:57 PM  added recovery 1  w (1)
+INFO 5/17/2025, 1:02:57 PM  synced recovery
+INFO 5/17/2025, 1:03:29 PM  [blur] 1
+INFO 5/17/2025, 1:03:29 PM  [win] blur
+INFO 5/17/2025, 1:03:29 PM  [focus] 1
+DEBUG 5/17/2025, 1:03:34 PM  added recovery 1  asdasd (6)
+INFO 5/17/2025, 1:03:34 PM  synced recovery
+DEBUG 5/17/2025, 1:03:35 PM  added recovery 1   (0)
+INFO 5/17/2025, 1:03:35 PM  synced recovery
+DEBUG 5/17/2025, 1:03:45 PM  added recovery 1   (0)
+INFO 5/17/2025, 1:03:45 PM  synced recovery
+INFO 5/17/2025, 1:04:11 PM  [blur] 1
+INFO 5/17/2025, 1:04:11 PM  [win] blur
+INFO 5/17/2025, 1:04:11 PM  [focus] 1
+DEBUG 5/17/2025, 1:04:14 PM  added recovery 1  adadsd (6)
+INFO 5/17/2025, 1:04:14 PM  synced recovery
+INFO 5/17/2025, 1:04:41 PM  [blur] 1
+INFO 5/17/2025, 1:04:41 PM  [win] blur
+INFO 5/17/2025, 1:04:41 PM  [focus] 1
+DEBUG 5/17/2025, 1:04:44 PM  added recovery 1   (0)
+INFO 5/17/2025, 1:04:44 PM  synced recovery
+INFO 5/17/2025, 1:04:59 PM  [blur] 1
+INFO 5/17/2025, 1:04:59 PM  [win] blur
+INFO 5/17/2025, 1:04:59 PM  [focus] 1
+INFO 5/17/2025, 1:05:04 PM  synced recovery
+INFO 5/17/2025, 1:05:04 PM  ----------------before-quit-----------------
+INFO 5/17/2025, 1:05:04 PM  ------------------will-quit------------------
+INFO 5/17/2025, 1:05:04 PM  -----------------quit------------------
+INFO 5/17/2025, 1:05:04 PM  closeLogging
+INFO 5/17/2025, 1:05:07 PM  launch with argv [/usr/share/typora/Typora]
+INFO 5/17/2025, 1:05:07 PM  ------------------start------------------
+DEBUG 5/17/2025, 1:05:07 PM  prepDatabase /home/gui/.config/Typora/profile.data
+DEBUG 5/17/2025, 1:05:07 PM  prepDatabase /home/gui/.config/Typora/history.data
+INFO 5/17/2025, 1:05:07 PM  OS is linux 6.14.5-arch1-1
+INFO 5/17/2025, 1:05:07 PM  start LM in devVersion=false
+INFO 5/17/2025, 1:05:07 PM  [watch L]
+DEBUG 5/17/2025, 1:05:07 PM  prepDatabase /home/gui/.config/Typora/SX6SalfPSx
+INFO 5/17/2025, 1:05:07 PM  ls put SLicense
+DEBUG 5/17/2025, 1:05:07 PM  onUnfillLicense
+DEBUG 5/17/2025, 1:05:07 PM  trailRemains is 15
+INFO 5/17/2025, 1:05:07 PM  [L] installDate is 5/17/2025, trail remains: 15 days
+INFO 5/17/2025, 1:05:07 PM  [watch L] hasL: false
+INFO 5/17/2025, 1:05:07 PM  typora version: 1.10.8
+user-dict.json not found
+DEBUG 5/17/2025, 1:05:07 PM  app.openFile
+DEBUG 5/17/2025, 1:05:07 PM  putAccelerator File -> &File
+DEBUG 5/17/2025, 1:05:07 PM  putAccelerator Edit -> &Edit
+DEBUG 5/17/2025, 1:05:07 PM  putAccelerator Paragraph -> &Paragraph
+DEBUG 5/17/2025, 1:05:07 PM  putAccelerator Format -> F&ormat
+DEBUG 5/17/2025, 1:05:07 PM  putAccelerator View -> &View
+DEBUG 5/17/2025, 1:05:07 PM  putAccelerator Themes -> &Themes
+DEBUG 5/17/2025, 1:05:07 PM  putAccelerator Help -> &Help
+DEBUG 5/17/2025, 1:05:08 PM  added recovery 1 null  (0)
+INFO 5/17/2025, 1:05:08 PM  [focus] 1
+INFO 5/17/2025, 1:05:08 PM  [blur] 1
+INFO 5/17/2025, 1:05:08 PM  [win] blur
+INFO 5/17/2025, 1:05:08 PM  [focus] 1
+INFO 5/17/2025, 1:05:08 PM  synced recovery
+DEBUG 5/17/2025, 1:05:08 PM  onUnfillLicense
+ERROR 5/17/2025, 1:05:08 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 1:05:08 PM  handle document.loadData
+DEBUG 5/17/2025, 1:05:08 PM  document.loadData 0
+ERROR 5/17/2025, 1:05:08 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 1:05:09 PM  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 5/17/2025, 1:05:09 PM  [RenderProcess 1][Log] reset NodeMap
+DEBUG 5/17/2025, 1:05:09 PM  added recovery 1   (0)
+INFO 5/17/2025, 1:05:09 PM  synced recovery
+DEBUG 5/17/2025, 1:05:09 PM  added recovery 1  a (1)
+INFO 5/17/2025, 1:05:09 PM  synced recovery
+INFO 5/17/2025, 1:05:09 PM  [RenderProcess 1][Log] onBecomeActive
+INFO 5/17/2025, 1:05:09 PM  [RenderProcess 1][Log] File.activeWindow = true
+INFO 5/17/2025, 1:05:10 PM  [blur] 1
+INFO 5/17/2025, 1:05:10 PM  [win] blur
+INFO 5/17/2025, 1:05:11 PM  [focus] 1
+INFO 5/17/2025, 1:05:11 PM  [blur] 1
+INFO 5/17/2025, 1:05:11 PM  [win] blur
+INFO 5/17/2025, 1:05:12 PM  [focus] 1
+INFO 5/17/2025, 1:05:12 PM  [blur] 1
+INFO 5/17/2025, 1:05:12 PM  [win] blur
+INFO 5/17/2025, 1:05:12 PM  [focus] 1
+DEBUG 5/17/2025, 1:05:14 PM  added recovery 1  asdwdada (8)
+INFO 5/17/2025, 1:05:14 PM  synced recovery
+INFO 5/17/2025, 1:05:14 PM  [blur] 1
+INFO 5/17/2025, 1:05:14 PM  [win] blur
+DEBUG 5/17/2025, 1:05:14 PM  added recovery 1  a (1)
+INFO 5/17/2025, 1:05:14 PM  synced recovery
+INFO 5/17/2025, 1:05:15 PM  [focus] 1
+INFO 5/17/2025, 1:05:15 PM  [blur] 1
+INFO 5/17/2025, 1:05:15 PM  [win] blur
+INFO 5/17/2025, 1:05:15 PM  [focus] 1
+DEBUG 5/17/2025, 1:05:17 PM  added recovery 1   (0)
+INFO 5/17/2025, 1:05:17 PM  synced recovery
+ERROR 5/17/2025, 1:05:18 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:05:18 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:05:20 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:05:20 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 1:06:08 PM  [blur] 1
+INFO 5/17/2025, 1:06:08 PM  [win] blur
+INFO 5/17/2025, 1:06:08 PM  [focus] 1
+INFO 5/17/2025, 1:06:11 PM  [blur] 1
+INFO 5/17/2025, 1:06:11 PM  [win] blur
+DEBUG 5/17/2025, 1:06:11 PM  added recovery 1  wadsd (5)
+INFO 5/17/2025, 1:06:11 PM  synced recovery
+INFO 5/17/2025, 1:06:17 PM  [focus] 1
+DEBUG 5/17/2025, 1:06:18 PM  added recovery 1  wadsd (5)
+INFO 5/17/2025, 1:06:18 PM  synced recovery
+INFO 5/17/2025, 1:06:20 PM  synced recovery
+INFO 5/17/2025, 1:06:20 PM  ----------------before-quit-----------------
+INFO 5/17/2025, 1:06:20 PM  ------------------will-quit------------------
+INFO 5/17/2025, 1:06:20 PM  -----------------quit------------------
+INFO 5/17/2025, 1:06:20 PM  closeLogging
+INFO 5/17/2025, 1:06:23 PM  launch with argv [/usr/share/typora/Typora]
+INFO 5/17/2025, 1:06:23 PM  ------------------start------------------
+DEBUG 5/17/2025, 1:06:23 PM  prepDatabase /home/gui/.config/Typora/profile.data
+DEBUG 5/17/2025, 1:06:23 PM  prepDatabase /home/gui/.config/Typora/history.data
+INFO 5/17/2025, 1:06:23 PM  OS is linux 6.14.5-arch1-1
+INFO 5/17/2025, 1:06:23 PM  start LM in devVersion=false
+INFO 5/17/2025, 1:06:23 PM  [watch L]
+DEBUG 5/17/2025, 1:06:23 PM  prepDatabase /home/gui/.config/Typora/SX6SalfPSx
+INFO 5/17/2025, 1:06:23 PM  ls put SLicense
+DEBUG 5/17/2025, 1:06:23 PM  onUnfillLicense
+DEBUG 5/17/2025, 1:06:23 PM  trailRemains is 15
+INFO 5/17/2025, 1:06:23 PM  [L] installDate is 5/17/2025, trail remains: 15 days
+INFO 5/17/2025, 1:06:23 PM  [watch L] hasL: false
+INFO 5/17/2025, 1:06:23 PM  typora version: 1.10.8
+user-dict.json not found
+DEBUG 5/17/2025, 1:06:23 PM  app.openFile
+DEBUG 5/17/2025, 1:06:23 PM  putAccelerator File -> &File
+DEBUG 5/17/2025, 1:06:23 PM  putAccelerator Edit -> &Edit
+DEBUG 5/17/2025, 1:06:23 PM  putAccelerator Paragraph -> &Paragraph
+DEBUG 5/17/2025, 1:06:23 PM  putAccelerator Format -> F&ormat
+DEBUG 5/17/2025, 1:06:23 PM  putAccelerator View -> &View
+DEBUG 5/17/2025, 1:06:23 PM  putAccelerator Themes -> &Themes
+DEBUG 5/17/2025, 1:06:23 PM  putAccelerator Help -> &Help
+DEBUG 5/17/2025, 1:06:23 PM  added recovery 1 null  (0)
+INFO 5/17/2025, 1:06:23 PM  [focus] 1
+INFO 5/17/2025, 1:06:24 PM  [blur] 1
+INFO 5/17/2025, 1:06:24 PM  [win] blur
+INFO 5/17/2025, 1:06:24 PM  [focus] 1
+INFO 5/17/2025, 1:06:24 PM  synced recovery
+DEBUG 5/17/2025, 1:06:24 PM  onUnfillLicense
+ERROR 5/17/2025, 1:06:24 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 1:06:24 PM  handle document.loadData
+DEBUG 5/17/2025, 1:06:24 PM  document.loadData 0
+ERROR 5/17/2025, 1:06:24 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 1:06:24 PM  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 5/17/2025, 1:06:24 PM  [RenderProcess 1][Log] reset NodeMap
+DEBUG 5/17/2025, 1:06:24 PM  added recovery 1   (0)
+INFO 5/17/2025, 1:06:24 PM  synced recovery
+INFO 5/17/2025, 1:06:25 PM  [RenderProcess 1][Log] onBecomeActive
+INFO 5/17/2025, 1:06:25 PM  [RenderProcess 1][Log] File.activeWindow = true
+ERROR 5/17/2025, 1:06:25 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:06:25 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:06:26 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:06:26 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 1:06:27 PM  [blur] 1
+INFO 5/17/2025, 1:06:27 PM  [win] blur
+DEBUG 5/17/2025, 1:06:27 PM  added recovery 1  ad (2)
+INFO 5/17/2025, 1:06:27 PM  synced recovery
+INFO 5/17/2025, 1:06:57 PM  [focus] 1
+INFO 5/17/2025, 1:08:34 PM  [blur] 1
+INFO 5/17/2025, 1:08:34 PM  [win] blur
+INFO 5/17/2025, 1:08:34 PM  [focus] 1
+INFO 5/17/2025, 1:08:37 PM  synced recovery
+INFO 5/17/2025, 1:08:37 PM  ----------------before-quit-----------------
+INFO 5/17/2025, 1:08:37 PM  ------------------will-quit------------------
+INFO 5/17/2025, 1:08:37 PM  -----------------quit------------------
+INFO 5/17/2025, 1:08:37 PM  closeLogging
+INFO 5/17/2025, 1:08:40 PM  launch with argv [/usr/share/typora/Typora]
+INFO 5/17/2025, 1:08:40 PM  ------------------start------------------
+DEBUG 5/17/2025, 1:08:40 PM  prepDatabase /home/gui/.config/Typora/profile.data
+DEBUG 5/17/2025, 1:08:40 PM  prepDatabase /home/gui/.config/Typora/history.data
+INFO 5/17/2025, 1:08:40 PM  OS is linux 6.14.5-arch1-1
+INFO 5/17/2025, 1:08:40 PM  start LM in devVersion=false
+INFO 5/17/2025, 1:08:40 PM  [watch L]
+DEBUG 5/17/2025, 1:08:40 PM  prepDatabase /home/gui/.config/Typora/SX6SalfPSx
+INFO 5/17/2025, 1:08:40 PM  ls put SLicense
+DEBUG 5/17/2025, 1:08:40 PM  onUnfillLicense
+DEBUG 5/17/2025, 1:08:40 PM  trailRemains is 15
+INFO 5/17/2025, 1:08:40 PM  [L] installDate is 5/17/2025, trail remains: 15 days
+INFO 5/17/2025, 1:08:40 PM  [watch L] hasL: false
+INFO 5/17/2025, 1:08:40 PM  typora version: 1.10.8
+user-dict.json not found
+DEBUG 5/17/2025, 1:08:40 PM  app.openFile
+DEBUG 5/17/2025, 1:08:40 PM  putAccelerator File -> &File
+DEBUG 5/17/2025, 1:08:40 PM  putAccelerator Edit -> &Edit
+DEBUG 5/17/2025, 1:08:40 PM  putAccelerator Paragraph -> &Paragraph
+DEBUG 5/17/2025, 1:08:40 PM  putAccelerator Format -> F&ormat
+DEBUG 5/17/2025, 1:08:40 PM  putAccelerator View -> &View
+DEBUG 5/17/2025, 1:08:40 PM  putAccelerator Themes -> &Themes
+DEBUG 5/17/2025, 1:08:40 PM  putAccelerator Help -> &Help
+DEBUG 5/17/2025, 1:08:40 PM  added recovery 1 null  (0)
+INFO 5/17/2025, 1:08:40 PM  [focus] 1
+INFO 5/17/2025, 1:08:40 PM  [blur] 1
+INFO 5/17/2025, 1:08:40 PM  [win] blur
+INFO 5/17/2025, 1:08:40 PM  [focus] 1
+INFO 5/17/2025, 1:08:40 PM  synced recovery
+DEBUG 5/17/2025, 1:08:41 PM  onUnfillLicense
+INFO 5/17/2025, 1:08:41 PM  handle document.loadData
+DEBUG 5/17/2025, 1:08:41 PM  document.loadData 0
+ERROR 5/17/2025, 1:08:41 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:08:41 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 1:08:41 PM  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 5/17/2025, 1:08:41 PM  [RenderProcess 1][Log] reset NodeMap
+DEBUG 5/17/2025, 1:08:41 PM  added recovery 1   (0)
+INFO 5/17/2025, 1:08:41 PM  synced recovery
+INFO 5/17/2025, 1:08:42 PM  [RenderProcess 1][Log] onBecomeActive
+INFO 5/17/2025, 1:08:42 PM  [RenderProcess 1][Log] File.activeWindow = true
+ERROR 5/17/2025, 1:08:42 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:08:42 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+DEBUG 5/17/2025, 1:08:44 PM  added recovery 1  asdawda (7)
+INFO 5/17/2025, 1:08:44 PM  synced recovery
+ERROR 5/17/2025, 1:08:45 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:08:45 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:08:47 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:08:47 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:08:48 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:08:48 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 1:08:48 PM  updateTheme
+ERROR 5/17/2025, 1:08:48 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:08:48 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:08:49 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:08:49 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 1:08:49 PM  updateTheme
+ERROR 5/17/2025, 1:08:49 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:08:49 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:08:51 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:08:51 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+DEBUG 5/17/2025, 1:08:51 PM  added recovery 1  asdasdawda
+
+a (13)
+INFO 5/17/2025, 1:08:51 PM  synced recovery
+INFO 5/17/2025, 1:08:51 PM  updateTheme
+ERROR 5/17/2025, 1:08:51 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:08:51 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:08:52 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:08:52 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 1:08:52 PM  updateTheme
+ERROR 5/17/2025, 1:08:52 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:08:52 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:08:53 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:08:53 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:08:54 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:08:54 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 1:08:54 PM  updateTheme
+ERROR 5/17/2025, 1:08:54 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:08:54 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:08:55 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:08:55 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 1:08:55 PM  updateTheme
+ERROR 5/17/2025, 1:08:55 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:08:55 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:08:56 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:08:56 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:08:58 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:08:58 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:08:59 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:08:59 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:09:00 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:09:00 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:09:02 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:09:02 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+DEBUG 5/17/2025, 1:09:02 PM  added recovery 1  asdasdawda
+
+aa (14)
+INFO 5/17/2025, 1:09:02 PM  synced recovery
+ERROR 5/17/2025, 1:09:03 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:09:03 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 1:09:47 PM  [blur] 1
+INFO 5/17/2025, 1:09:47 PM  [win] blur
+INFO 5/17/2025, 1:09:47 PM  [focus] 1
+INFO 5/17/2025, 1:09:47 PM  [blur] 1
+INFO 5/17/2025, 1:09:47 PM  [win] blur
+INFO 5/17/2025, 1:09:47 PM  [focus] 1
+INFO 5/17/2025, 1:09:49 PM  updateTheme
+ERROR 5/17/2025, 1:09:49 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:09:49 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 1:09:53 PM  [blur] 1
+INFO 5/17/2025, 1:09:53 PM  [win] blur
+INFO 5/17/2025, 1:09:54 PM  [focus] 1
+INFO 5/17/2025, 1:09:54 PM  [blur] 1
+INFO 5/17/2025, 1:09:54 PM  [win] blur
+INFO 5/17/2025, 1:09:54 PM  [focus] 1
+INFO 5/17/2025, 1:09:55 PM  synced recovery
+INFO 5/17/2025, 1:09:55 PM  ----------------before-quit-----------------
+INFO 5/17/2025, 1:09:55 PM  ------------------will-quit------------------
+INFO 5/17/2025, 1:09:55 PM  -----------------quit------------------
+INFO 5/17/2025, 1:09:55 PM  closeLogging
+INFO 5/17/2025, 1:09:59 PM  launch with argv [/usr/share/typora/Typora]
+INFO 5/17/2025, 1:09:59 PM  ------------------start------------------
+DEBUG 5/17/2025, 1:09:59 PM  prepDatabase /home/gui/.config/Typora/profile.data
+DEBUG 5/17/2025, 1:09:59 PM  prepDatabase /home/gui/.config/Typora/history.data
+INFO 5/17/2025, 1:09:59 PM  OS is linux 6.14.5-arch1-1
+INFO 5/17/2025, 1:09:59 PM  start LM in devVersion=false
+INFO 5/17/2025, 1:09:59 PM  [watch L]
+DEBUG 5/17/2025, 1:09:59 PM  prepDatabase /home/gui/.config/Typora/SX6SalfPSx
+INFO 5/17/2025, 1:09:59 PM  ls put SLicense
+DEBUG 5/17/2025, 1:09:59 PM  onUnfillLicense
+DEBUG 5/17/2025, 1:09:59 PM  trailRemains is 15
+INFO 5/17/2025, 1:09:59 PM  [L] installDate is 5/17/2025, trail remains: 15 days
+INFO 5/17/2025, 1:09:59 PM  [watch L] hasL: false
+INFO 5/17/2025, 1:09:59 PM  typora version: 1.10.8
+user-dict.json not found
+DEBUG 5/17/2025, 1:09:59 PM  app.openFile
+DEBUG 5/17/2025, 1:09:59 PM  putAccelerator File -> &File
+DEBUG 5/17/2025, 1:09:59 PM  putAccelerator Edit -> &Edit
+DEBUG 5/17/2025, 1:09:59 PM  putAccelerator Paragraph -> &Paragraph
+DEBUG 5/17/2025, 1:09:59 PM  putAccelerator Format -> F&ormat
+DEBUG 5/17/2025, 1:09:59 PM  putAccelerator View -> &View
+DEBUG 5/17/2025, 1:09:59 PM  putAccelerator Themes -> &Themes
+DEBUG 5/17/2025, 1:09:59 PM  putAccelerator Help -> &Help
+DEBUG 5/17/2025, 1:09:59 PM  added recovery 1 null  (0)
+INFO 5/17/2025, 1:09:59 PM  [focus] 1
+INFO 5/17/2025, 1:09:59 PM  [blur] 1
+INFO 5/17/2025, 1:09:59 PM  [win] blur
+INFO 5/17/2025, 1:09:59 PM  [focus] 1
+INFO 5/17/2025, 1:09:59 PM  synced recovery
+DEBUG 5/17/2025, 1:10:00 PM  onUnfillLicense
+ERROR 5/17/2025, 1:10:00 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:10:00 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 1:10:00 PM  handle document.loadData
+DEBUG 5/17/2025, 1:10:00 PM  document.loadData 1
+INFO 5/17/2025, 1:10:00 PM  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 5/17/2025, 1:10:00 PM  [RenderProcess 1][Log] reset NodeMap
+DEBUG 5/17/2025, 1:10:00 PM  added recovery 1   (0)
+INFO 5/17/2025, 1:10:00 PM  synced recovery
+INFO 5/17/2025, 1:10:00 PM  [RenderProcess 1][Log] onBecomeActive
+INFO 5/17/2025, 1:10:00 PM  [RenderProcess 1][Log] File.activeWindow = true
+INFO 5/17/2025, 1:10:00 PM  [blur] 1
+INFO 5/17/2025, 1:10:00 PM  [win] blur
+INFO 5/17/2025, 1:10:00 PM  [focus] 2
+INFO 5/17/2025, 1:10:01 PM  [blur] 2
+INFO 5/17/2025, 1:10:01 PM  [focus] 1
+INFO 5/17/2025, 1:10:01 PM  [blur] 1
+INFO 5/17/2025, 1:10:01 PM  [win] blur
+INFO 5/17/2025, 1:10:01 PM  [focus] 2
+INFO 5/17/2025, 1:10:03 PM  [focus] 1
+INFO 5/17/2025, 1:10:03 PM  [blur] 1
+INFO 5/17/2025, 1:10:03 PM  [win] blur
+INFO 5/17/2025, 1:10:03 PM  [focus] 1
+ERROR 5/17/2025, 1:10:05 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:10:05 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+DEBUG 5/17/2025, 1:10:06 PM  added recovery 1  wads (4)
+INFO 5/17/2025, 1:10:06 PM  synced recovery
+INFO 5/17/2025, 1:10:07 PM  [blur] 1
+INFO 5/17/2025, 1:10:07 PM  [win] blur
+INFO 5/17/2025, 1:12:11 PM  [focus] 1
+INFO 5/17/2025, 1:12:12 PM  [blur] 1
+INFO 5/17/2025, 1:12:12 PM  [win] blur
+INFO 5/17/2025, 1:13:15 PM  [focus] 1
+INFO 5/17/2025, 1:15:01 PM  [blur] 1
+INFO 5/17/2025, 1:15:01 PM  [win] blur
+INFO 5/17/2025, 1:15:01 PM  [focus] 1
+INFO 5/17/2025, 1:15:01 PM  [blur] 1
+INFO 5/17/2025, 1:15:01 PM  [win] blur
+INFO 5/17/2025, 1:15:01 PM  [focus] 1
+INFO 5/17/2025, 1:15:01 PM  [blur] 1
+INFO 5/17/2025, 1:15:01 PM  [win] blur
+INFO 5/17/2025, 1:15:01 PM  [focus] 1
+INFO 5/17/2025, 1:15:15 PM  [blur] 1
+INFO 5/17/2025, 1:15:15 PM  [win] blur
+INFO 5/17/2025, 1:15:15 PM  [focus] 1
+INFO 5/17/2025, 1:15:16 PM  [blur] 1
+INFO 5/17/2025, 1:15:16 PM  [win] blur
+INFO 5/17/2025, 1:15:22 PM  [focus] 1
+INFO 5/17/2025, 1:15:50 PM  [blur] 1
+INFO 5/17/2025, 1:15:50 PM  [win] blur
+INFO 5/17/2025, 1:15:50 PM  [focus] 1
+INFO 5/17/2025, 1:15:54 PM  synced recovery
+INFO 5/17/2025, 1:15:54 PM  ----------------before-quit-----------------
+INFO 5/17/2025, 1:15:54 PM  ------------------will-quit------------------
+INFO 5/17/2025, 1:15:54 PM  -----------------quit------------------
+INFO 5/17/2025, 1:15:54 PM  closeLogging
+INFO 5/17/2025, 1:15:57 PM  launch with argv [/usr/share/typora/Typora]
+INFO 5/17/2025, 1:15:57 PM  ------------------start------------------
+DEBUG 5/17/2025, 1:15:57 PM  prepDatabase /home/gui/.config/Typora/profile.data
+DEBUG 5/17/2025, 1:15:57 PM  prepDatabase /home/gui/.config/Typora/history.data
+INFO 5/17/2025, 1:15:57 PM  OS is linux 6.14.5-arch1-1
+INFO 5/17/2025, 1:15:57 PM  start LM in devVersion=false
+INFO 5/17/2025, 1:15:57 PM  [watch L]
+DEBUG 5/17/2025, 1:15:57 PM  prepDatabase /home/gui/.config/Typora/SX6SalfPSx
+INFO 5/17/2025, 1:15:57 PM  ls put SLicense
+DEBUG 5/17/2025, 1:15:57 PM  onUnfillLicense
+DEBUG 5/17/2025, 1:15:57 PM  trailRemains is 15
+INFO 5/17/2025, 1:15:57 PM  [L] installDate is 5/17/2025, trail remains: 15 days
+INFO 5/17/2025, 1:15:57 PM  [watch L] hasL: false
+INFO 5/17/2025, 1:15:57 PM  typora version: 1.10.8
+user-dict.json not found
+DEBUG 5/17/2025, 1:15:57 PM  app.openFile
+DEBUG 5/17/2025, 1:15:57 PM  putAccelerator File -> &File
+DEBUG 5/17/2025, 1:15:57 PM  putAccelerator Edit -> &Edit
+DEBUG 5/17/2025, 1:15:57 PM  putAccelerator Paragraph -> &Paragraph
+DEBUG 5/17/2025, 1:15:57 PM  putAccelerator Format -> F&ormat
+DEBUG 5/17/2025, 1:15:57 PM  putAccelerator View -> &View
+DEBUG 5/17/2025, 1:15:57 PM  putAccelerator Themes -> &Themes
+DEBUG 5/17/2025, 1:15:57 PM  putAccelerator Help -> &Help
+DEBUG 5/17/2025, 1:15:57 PM  added recovery 1 null  (0)
+INFO 5/17/2025, 1:15:57 PM  [focus] 1
+INFO 5/17/2025, 1:15:57 PM  [blur] 1
+INFO 5/17/2025, 1:15:57 PM  [win] blur
+INFO 5/17/2025, 1:15:57 PM  [focus] 1
+INFO 5/17/2025, 1:15:57 PM  synced recovery
+INFO 5/17/2025, 1:15:57 PM  [blur] 1
+INFO 5/17/2025, 1:15:57 PM  [win] blur
+INFO 5/17/2025, 1:15:57 PM  [focus] 2
+DEBUG 5/17/2025, 1:15:58 PM  onUnfillLicense
+ERROR 5/17/2025, 1:15:58 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:15:58 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 1:15:58 PM  handle document.loadData
+DEBUG 5/17/2025, 1:15:58 PM  document.loadData 1
+INFO 5/17/2025, 1:15:58 PM  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 5/17/2025, 1:15:58 PM  [RenderProcess 1][Log] reset NodeMap
+DEBUG 5/17/2025, 1:15:58 PM  added recovery 1   (0)
+INFO 5/17/2025, 1:15:58 PM  synced recovery
+INFO 5/17/2025, 1:15:58 PM  [RenderProcess 1][Log] onBecomeActive
+INFO 5/17/2025, 1:15:58 PM  [RenderProcess 1][Log] File.activeWindow = true
+INFO 5/17/2025, 1:15:58 PM  [focus] 1
+INFO 5/17/2025, 1:15:58 PM  [blur] 1
+INFO 5/17/2025, 1:15:58 PM  [win] blur
+INFO 5/17/2025, 1:15:58 PM  [focus] 1
+ERROR 5/17/2025, 1:16:01 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:16:01 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 1:16:02 PM  updateTheme
+ERROR 5/17/2025, 1:16:02 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:16:02 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+DEBUG 5/17/2025, 1:16:05 PM  added recovery 1  wdasd (5)
+INFO 5/17/2025, 1:16:05 PM  synced recovery
+INFO 5/17/2025, 1:16:12 PM  updateTheme
+ERROR 5/17/2025, 1:16:12 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:16:12 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+DEBUG 5/17/2025, 1:16:19 PM  execForAll
+INFO 5/17/2025, 1:16:19 PM  window.File && (function(){document.body.classList.remove("show-footer"),document.body.classList.add("hide-footer")})();
+DEBUG 5/17/2025, 1:16:19 PM  execForAll
+INFO 5/17/2025, 1:16:19 PM  window.File && (function(){document.body.classList.add("show-footer"),document.body.classList.remove("hide-footer")})();
+INFO 5/17/2025, 1:16:25 PM  updateTheme
+ERROR 5/17/2025, 1:16:25 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:16:25 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 1:16:33 PM  updateTheme
+ERROR 5/17/2025, 1:16:33 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:16:33 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 1:16:34 PM  updateTheme
+ERROR 5/17/2025, 1:16:34 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:16:34 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 1:16:35 PM  updateTheme
+ERROR 5/17/2025, 1:16:35 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:16:35 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 1:16:37 PM  updateTheme
+ERROR 5/17/2025, 1:16:37 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:16:37 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 1:16:38 PM  updateTheme
+ERROR 5/17/2025, 1:16:38 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:16:38 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 1:16:42 PM  [blur] 1
+INFO 5/17/2025, 1:16:42 PM  [win] blur
+INFO 5/17/2025, 1:16:55 PM  [focus] 1
+INFO 5/17/2025, 1:16:58 PM  synced recovery
+INFO 5/17/2025, 1:16:58 PM  ----------------before-quit-----------------
+INFO 5/17/2025, 1:16:58 PM  ------------------will-quit------------------
+INFO 5/17/2025, 1:16:58 PM  -----------------quit------------------
+INFO 5/17/2025, 1:16:58 PM  closeLogging
+INFO 5/17/2025, 1:17:01 PM  launch with argv [/usr/share/typora/Typora]
+INFO 5/17/2025, 1:17:01 PM  ------------------start------------------
+DEBUG 5/17/2025, 1:17:01 PM  prepDatabase /home/gui/.config/Typora/profile.data
+DEBUG 5/17/2025, 1:17:01 PM  prepDatabase /home/gui/.config/Typora/history.data
+INFO 5/17/2025, 1:17:01 PM  OS is linux 6.14.5-arch1-1
+INFO 5/17/2025, 1:17:01 PM  start LM in devVersion=false
+INFO 5/17/2025, 1:17:01 PM  [watch L]
+DEBUG 5/17/2025, 1:17:01 PM  prepDatabase /home/gui/.config/Typora/SX6SalfPSx
+INFO 5/17/2025, 1:17:01 PM  ls put SLicense
+DEBUG 5/17/2025, 1:17:01 PM  onUnfillLicense
+DEBUG 5/17/2025, 1:17:01 PM  trailRemains is 15
+INFO 5/17/2025, 1:17:01 PM  [L] installDate is 5/17/2025, trail remains: 15 days
+INFO 5/17/2025, 1:17:01 PM  [watch L] hasL: false
+INFO 5/17/2025, 1:17:01 PM  typora version: 1.10.8
+user-dict.json not found
+DEBUG 5/17/2025, 1:17:01 PM  putAccelerator File -> &File
+DEBUG 5/17/2025, 1:17:01 PM  putAccelerator Edit -> &Edit
+DEBUG 5/17/2025, 1:17:01 PM  putAccelerator Paragraph -> &Paragraph
+DEBUG 5/17/2025, 1:17:01 PM  putAccelerator Format -> F&ormat
+DEBUG 5/17/2025, 1:17:01 PM  putAccelerator View -> &View
+DEBUG 5/17/2025, 1:17:01 PM  putAccelerator Themes -> &Themes
+DEBUG 5/17/2025, 1:17:01 PM  putAccelerator Help -> &Help
+DEBUG 5/17/2025, 1:17:01 PM  app.openFile
+DEBUG 5/17/2025, 1:17:01 PM  added recovery 1 null  (0)
+INFO 5/17/2025, 1:17:01 PM  [focus] 1
+INFO 5/17/2025, 1:17:01 PM  [blur] 1
+INFO 5/17/2025, 1:17:01 PM  [win] blur
+INFO 5/17/2025, 1:17:01 PM  [focus] 1
+INFO 5/17/2025, 1:17:01 PM  synced recovery
+DEBUG 5/17/2025, 1:17:02 PM  onUnfillLicense
+ERROR 5/17/2025, 1:17:02 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 1:17:02 PM  handle document.loadData
+DEBUG 5/17/2025, 1:17:02 PM  document.loadData 0
+ERROR 5/17/2025, 1:17:02 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 1:17:02 PM  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 5/17/2025, 1:17:02 PM  [RenderProcess 1][Log] reset NodeMap
+DEBUG 5/17/2025, 1:17:02 PM  added recovery 1   (0)
+INFO 5/17/2025, 1:17:02 PM  synced recovery
+INFO 5/17/2025, 1:17:03 PM  [RenderProcess 1][Log] onBecomeActive
+INFO 5/17/2025, 1:17:03 PM  [RenderProcess 1][Log] File.activeWindow = true
+INFO 5/17/2025, 1:17:13 PM  [blur] 1
+INFO 5/17/2025, 1:17:13 PM  [win] blur
+INFO 5/17/2025, 1:20:54 PM  [focus] 1
+INFO 5/17/2025, 1:25:44 PM  [blur] 1
+INFO 5/17/2025, 1:25:44 PM  [win] blur
+INFO 5/17/2025, 1:25:44 PM  [focus] 1
+INFO 5/17/2025, 1:25:46 PM  updateTheme
+ERROR 5/17/2025, 1:25:46 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:25:46 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 1:25:47 PM  updateTheme
+ERROR 5/17/2025, 1:25:47 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:25:47 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 1:25:49 PM  updateTheme
+ERROR 5/17/2025, 1:25:49 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:25:49 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 1:25:50 PM  updateTheme
+ERROR 5/17/2025, 1:25:50 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:25:50 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 1:25:51 PM  updateTheme
+ERROR 5/17/2025, 1:25:51 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:25:51 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 1:25:54 PM  [blur] 1
+INFO 5/17/2025, 1:25:54 PM  [win] blur
+DEBUG 5/17/2025, 1:25:54 PM  added recovery 1  d (1)
+INFO 5/17/2025, 1:25:54 PM  synced recovery
+INFO 5/17/2025, 1:25:55 PM  [focus] 1
+INFO 5/17/2025, 1:25:55 PM  [blur] 1
+INFO 5/17/2025, 1:25:55 PM  [win] blur
+INFO 5/17/2025, 1:25:55 PM  [focus] 1
+INFO 5/17/2025, 1:25:57 PM  [blur] 1
+INFO 5/17/2025, 1:25:57 PM  [win] blur
+DEBUG 5/17/2025, 1:25:57 PM  added recovery 1  ddwadwa (7)
+INFO 5/17/2025, 1:25:58 PM  synced recovery
+INFO 5/17/2025, 1:26:00 PM  [focus] 1
+INFO 5/17/2025, 1:26:00 PM  [blur] 1
+INFO 5/17/2025, 1:26:00 PM  [win] blur
+INFO 5/17/2025, 1:26:00 PM  [focus] 1
+DEBUG 5/17/2025, 1:26:02 PM  added recovery 1  asdwdasd (8)
+INFO 5/17/2025, 1:26:02 PM  synced recovery
+DEBUG 5/17/2025, 1:26:03 PM  added recovery 1   (0)
+INFO 5/17/2025, 1:26:03 PM  synced recovery
+DEBUG 5/17/2025, 1:26:04 PM  license.show (detail ? undefined)
+INFO 5/17/2025, 1:26:04 PM  [blur] 1
+INFO 5/17/2025, 1:26:04 PM  [win] blur
+INFO 5/17/2025, 1:26:04 PM  [focus] 2
+INFO 5/17/2025, 1:26:05 PM  [blur] 2
+INFO 5/17/2025, 1:26:05 PM  [focus] 1
+INFO 5/17/2025, 1:26:05 PM  [blur] 1
+INFO 5/17/2025, 1:26:05 PM  [win] blur
+INFO 5/17/2025, 1:26:05 PM  [focus] 2
+INFO 5/17/2025, 1:26:05 PM  [blur] 2
+INFO 5/17/2025, 1:26:05 PM  [focus] 1
+INFO 5/17/2025, 1:26:05 PM  [blur] 1
+INFO 5/17/2025, 1:26:05 PM  [win] blur
+INFO 5/17/2025, 1:26:05 PM  [focus] 2
+INFO 5/17/2025, 1:26:06 PM  [focus] 1
+INFO 5/17/2025, 1:26:06 PM  [blur] 1
+INFO 5/17/2025, 1:26:06 PM  [win] blur
+INFO 5/17/2025, 1:26:06 PM  [focus] 1
+INFO 5/17/2025, 1:26:08 PM  [blur] 1
+INFO 5/17/2025, 1:26:08 PM  [win] blur
+DEBUG 5/17/2025, 1:26:08 PM  added recovery 1  asdwda (6)
+INFO 5/17/2025, 1:26:08 PM  synced recovery
+INFO 5/17/2025, 1:26:09 PM  [focus] 1
+INFO 5/17/2025, 1:26:09 PM  [blur] 1
+INFO 5/17/2025, 1:26:09 PM  [win] blur
+INFO 5/17/2025, 1:26:09 PM  [focus] 1
+ERROR 5/17/2025, 1:26:12 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:26:12 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:26:14 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:26:14 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:26:15 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:26:15 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:26:16 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:26:16 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:26:18 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:26:18 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+DEBUG 5/17/2025, 1:26:22 PM  added recovery 1   (0)
+INFO 5/17/2025, 1:26:22 PM  synced recovery
+DEBUG 5/17/2025, 1:26:25 PM  added recovery 1  tell (4)
+INFO 5/17/2025, 1:26:25 PM  synced recovery
+DEBUG 5/17/2025, 1:26:27 PM  added recovery 1  say sorry (9)
+INFO 5/17/2025, 1:26:27 PM  synced recovery
+DEBUG 5/17/2025, 1:26:31 PM  added recovery 1  say sorry to her
+
+ (18)
+INFO 5/17/2025, 1:26:31 PM  synced recovery
+DEBUG 5/17/2025, 1:26:33 PM  added recovery 1  say sorry to her
+
+ (18)
+INFO 5/17/2025, 1:26:33 PM  synced recovery
+DEBUG 5/17/2025, 1:26:36 PM  added recovery 1  say sorry to her
+ (17)
+INFO 5/17/2025, 1:26:36 PM  synced recovery
+DEBUG 5/17/2025, 1:26:37 PM  added recovery 1  say sorry to her
+asdad (22)
+INFO 5/17/2025, 1:26:37 PM  synced recovery
+ERROR 5/17/2025, 1:26:38 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:26:38 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:26:39 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:26:39 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:26:40 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:26:40 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:26:42 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:26:42 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:26:44 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:26:44 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+DEBUG 5/17/2025, 1:26:47 PM  added recovery 1  say sorry to her
+asdad (22)
+INFO 5/17/2025, 1:26:47 PM  synced recovery
+ERROR 5/17/2025, 1:26:48 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 1:26:48 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+DEBUG 5/17/2025, 1:26:52 PM  added recovery 1  say sorry to her
+ (17)
+INFO 5/17/2025, 1:26:52 PM  synced recovery
+DEBUG 5/17/2025, 1:27:06 PM  added recovery 1  say sorry to her
+ (17)
+INFO 5/17/2025, 1:27:06 PM  synced recovery
+DEBUG 5/17/2025, 1:27:12 PM  added recovery 1  say sorry to her
+ (17)
+INFO 5/17/2025, 1:27:12 PM  synced recovery
+DEBUG 5/17/2025, 1:27:16 PM  added recovery 1  say sorry to her
+
+
+a (20)
+INFO 5/17/2025, 1:27:16 PM  synced recovery
+DEBUG 5/17/2025, 1:27:18 PM  added recovery 1   (0)
+INFO 5/17/2025, 1:27:18 PM  synced recovery
+INFO 5/17/2025, 1:27:20 PM  [blur] 1
+INFO 5/17/2025, 1:27:20 PM  [win] blur
+INFO 5/17/2025, 1:27:21 PM  [focus] 1
+INFO 5/17/2025, 1:27:21 PM  [blur] 1
+INFO 5/17/2025, 1:27:21 PM  [win] blur
+INFO 5/17/2025, 1:27:21 PM  [focus] 1
+INFO 5/17/2025, 1:27:22 PM  synced recovery
+INFO 5/17/2025, 1:27:22 PM  ----------------before-quit-----------------
+INFO 5/17/2025, 1:27:22 PM  ------------------will-quit------------------
+INFO 5/17/2025, 1:27:22 PM  -----------------quit------------------
+INFO 5/17/2025, 1:27:22 PM  closeLogging
+INFO 5/17/2025, 10:27:20 PM  launch with argv [/usr/share/typora/Typora]
+INFO 5/17/2025, 10:27:21 PM  ------------------start------------------
+DEBUG 5/17/2025, 10:27:21 PM  prepDatabase /home/gui/.config/Typora/profile.data
+DEBUG 5/17/2025, 10:27:21 PM  prepDatabase /home/gui/.config/Typora/history.data
+INFO 5/17/2025, 10:27:21 PM  OS is linux 6.14.5-arch1-1
+INFO 5/17/2025, 10:27:21 PM  start LM in devVersion=false
+INFO 5/17/2025, 10:27:21 PM  [watch L]
+DEBUG 5/17/2025, 10:27:21 PM  prepDatabase /home/gui/.config/Typora/SX6SalfPSx
+INFO 5/17/2025, 10:27:21 PM  ls put SLicense
+DEBUG 5/17/2025, 10:27:21 PM  onUnfillLicense
+DEBUG 5/17/2025, 10:27:21 PM  trailRemains is 15
+INFO 5/17/2025, 10:27:21 PM  [L] installDate is 5/17/2025, trail remains: 15 days
+INFO 5/17/2025, 10:27:21 PM  [watch L] hasL: false
+INFO 5/17/2025, 10:27:21 PM  typora version: 1.10.8
+user-dict.json not found
+DEBUG 5/17/2025, 10:27:21 PM  app.openFile
+DEBUG 5/17/2025, 10:27:21 PM  added recovery 2 null  (0)
+DEBUG 5/17/2025, 10:27:21 PM  putAccelerator File -> &File
+DEBUG 5/17/2025, 10:27:21 PM  putAccelerator Edit -> &Edit
+DEBUG 5/17/2025, 10:27:21 PM  putAccelerator Paragraph -> &Paragraph
+DEBUG 5/17/2025, 10:27:21 PM  putAccelerator Format -> F&ormat
+DEBUG 5/17/2025, 10:27:21 PM  putAccelerator View -> &View
+DEBUG 5/17/2025, 10:27:21 PM  putAccelerator Themes -> &Themes
+DEBUG 5/17/2025, 10:27:21 PM  putAccelerator Help -> &Help
+INFO 5/17/2025, 10:27:21 PM  [focus] 2
+INFO 5/17/2025, 10:27:21 PM  synced recovery
+INFO 5/17/2025, 10:27:22 PM  [blur] 2
+INFO 5/17/2025, 10:27:22 PM  [win] blur
+INFO 5/17/2025, 10:27:22 PM  [focus] 1
+INFO 5/17/2025, 10:27:22 PM  [blur] 1
+INFO 5/17/2025, 10:27:22 PM  [focus] 2
+INFO 5/17/2025, 10:27:22 PM  [blur] 2
+INFO 5/17/2025, 10:27:22 PM  [win] blur
+INFO 5/17/2025, 10:27:22 PM  [focus] 1
+DEBUG 5/17/2025, 10:27:23 PM  onUnfillLicense
+ERROR 5/17/2025, 10:27:23 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 10:27:23 PM  handle document.loadData
+DEBUG 5/17/2025, 10:27:23 PM  document.loadData 0
+ERROR 5/17/2025, 10:27:23 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 10:27:23 PM  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 5/17/2025, 10:27:23 PM  [RenderProcess 2][Log] reset NodeMap
+DEBUG 5/17/2025, 10:27:23 PM  added recovery 2   (0)
+INFO 5/17/2025, 10:27:23 PM  synced recovery
+INFO 5/17/2025, 10:27:23 PM  [RenderProcess 2][Log] onBecomeActive
+INFO 5/17/2025, 10:27:23 PM  [RenderProcess 2][Log] File.activeWindow = true
+INFO 5/17/2025, 10:27:27 PM  [focus] 2
+INFO 5/17/2025, 10:27:27 PM  [blur] 2
+INFO 5/17/2025, 10:27:27 PM  [win] blur
+INFO 5/17/2025, 10:28:40 PM  [focus] 2
+DEBUG 5/17/2025, 10:28:43 PM  license.show (detail ? undefined)
+INFO 5/17/2025, 10:28:43 PM  [blur] 2
+INFO 5/17/2025, 10:28:43 PM  [win] blur
+INFO 5/17/2025, 10:28:43 PM  [focus] 3
+INFO 5/17/2025, 10:28:44 PM  [blur] 3
+INFO 5/17/2025, 10:28:44 PM  [focus] 2
+INFO 5/17/2025, 10:28:44 PM  [blur] 2
+INFO 5/17/2025, 10:28:44 PM  [win] blur
+INFO 5/17/2025, 10:28:44 PM  [focus] 3
+INFO 5/17/2025, 10:28:45 PM  [focus] 2
+INFO 5/17/2025, 10:28:45 PM  [blur] 2
+INFO 5/17/2025, 10:28:45 PM  [win] blur
+INFO 5/17/2025, 10:28:45 PM  [focus] 2
+INFO 5/17/2025, 10:28:46 PM  [blur] 2
+INFO 5/17/2025, 10:28:46 PM  [win] blur
+INFO 5/17/2025, 10:28:47 PM  [focus] 2
+DEBUG 5/17/2025, 10:28:51 PM  added recovery 2   (0)
+INFO 5/17/2025, 10:28:51 PM  synced recovery
+INFO 5/17/2025, 10:28:52 PM  [blur] 2
+INFO 5/17/2025, 10:28:52 PM  [win] blur
+INFO 5/17/2025, 10:29:09 PM  [focus] 2
+INFO 5/17/2025, 10:29:09 PM  [blur] 2
+INFO 5/17/2025, 10:29:09 PM  [win] blur
+INFO 5/17/2025, 10:29:12 PM  [focus] 2
+INFO 5/17/2025, 10:29:15 PM  [blur] 2
+INFO 5/17/2025, 10:29:15 PM  [win] blur
+INFO 5/17/2025, 10:29:16 PM  [focus] 2
+DEBUG 5/17/2025, 10:29:18 PM  added recovery 2  "貴方は歴史が好きなの？私は苦手...le colabを使います！！" (72)
+INFO 5/17/2025, 10:29:18 PM  synced recovery
+INFO 5/17/2025, 10:29:19 PM  [blur] 2
+INFO 5/17/2025, 10:29:19 PM  [win] blur
+INFO 5/17/2025, 10:29:20 PM  [focus] 2
+DEBUG 5/17/2025, 10:29:24 PM  added recovery 2  "貴方は歴史が好きなの？私は苦手...e colabを使います！！
+" (73)
+INFO 5/17/2025, 10:29:24 PM  synced recovery
+DEBUG 5/17/2025, 10:29:28 PM  added recovery 2  "貴方は歴史が好きなの？私は苦手...く考えすぎちゃうんだ笑
+
+
+
+" (177)
+INFO 5/17/2025, 10:29:28 PM  synced recovery
+DEBUG 5/17/2025, 10:29:34 PM  added recovery 2  "貴方は歴史が好きなの？私は苦手...く考えすぎちゃうんだ笑
+
+
+
+" (181)
+INFO 5/17/2025, 10:29:34 PM  synced recovery
+DEBUG 5/17/2025, 10:29:35 PM  added recovery 2  "貴方は歴史が好きなの？私は苦手...く考えすぎちゃうんだ笑
+
+
+
+" (177)
+INFO 5/17/2025, 10:29:35 PM  synced recovery
+INFO 5/17/2025, 10:29:45 PM  [blur] 2
+INFO 5/17/2025, 10:29:45 PM  [win] blur
+INFO 5/17/2025, 10:29:46 PM  [focus] 2
+INFO 5/17/2025, 10:29:56 PM  [blur] 2
+INFO 5/17/2025, 10:29:56 PM  [win] blur
+INFO 5/17/2025, 10:30:06 PM  [focus] 2
+INFO 5/17/2025, 10:30:18 PM  [blur] 2
+INFO 5/17/2025, 10:30:18 PM  [win] blur
+INFO 5/17/2025, 10:30:19 PM  [focus] 2
+INFO 5/17/2025, 10:30:24 PM  [blur] 2
+INFO 5/17/2025, 10:30:24 PM  [win] blur
+INFO 5/17/2025, 10:31:37 PM  [focus] 2
+INFO 5/17/2025, 10:34:17 PM  [blur] 2
+INFO 5/17/2025, 10:34:17 PM  [win] blur
+INFO 5/17/2025, 10:34:17 PM  [focus] 2
+INFO 5/17/2025, 10:34:17 PM  [blur] 2
+INFO 5/17/2025, 10:34:17 PM  [win] blur
+INFO 5/17/2025, 10:34:17 PM  [focus] 2
+INFO 5/17/2025, 10:34:17 PM  [blur] 2
+INFO 5/17/2025, 10:34:17 PM  [win] blur
+INFO 5/17/2025, 10:34:17 PM  [focus] 2
+INFO 5/17/2025, 10:34:17 PM  [blur] 2
+INFO 5/17/2025, 10:34:17 PM  [win] blur
+INFO 5/17/2025, 10:34:17 PM  [focus] 2
+INFO 5/17/2025, 10:34:17 PM  [blur] 2
+INFO 5/17/2025, 10:34:17 PM  [win] blur
+INFO 5/17/2025, 10:34:17 PM  [focus] 2
+INFO 5/17/2025, 10:34:17 PM  [blur] 2
+INFO 5/17/2025, 10:34:17 PM  [win] blur
+INFO 5/17/2025, 10:34:17 PM  [focus] 2
+INFO 5/17/2025, 10:34:17 PM  [blur] 2
+INFO 5/17/2025, 10:34:17 PM  [win] blur
+INFO 5/17/2025, 10:34:17 PM  [focus] 2
+INFO 5/17/2025, 10:34:17 PM  [blur] 2
+INFO 5/17/2025, 10:34:17 PM  [win] blur
+INFO 5/17/2025, 10:34:17 PM  [focus] 2
+INFO 5/17/2025, 10:34:17 PM  [blur] 2
+INFO 5/17/2025, 10:34:17 PM  [win] blur
+INFO 5/17/2025, 10:34:17 PM  [focus] 2
+INFO 5/17/2025, 10:34:17 PM  [blur] 2
+INFO 5/17/2025, 10:34:17 PM  [win] blur
+INFO 5/17/2025, 10:34:17 PM  [focus] 2
+INFO 5/17/2025, 10:34:17 PM  [blur] 2
+INFO 5/17/2025, 10:34:17 PM  [win] blur
+INFO 5/17/2025, 10:34:17 PM  [focus] 2
+INFO 5/17/2025, 10:34:17 PM  [blur] 2
+INFO 5/17/2025, 10:34:17 PM  [win] blur
+INFO 5/17/2025, 10:34:17 PM  [focus] 2
+INFO 5/17/2025, 10:34:17 PM  [blur] 2
+INFO 5/17/2025, 10:34:17 PM  [win] blur
+INFO 5/17/2025, 10:34:17 PM  [focus] 2
+INFO 5/17/2025, 10:34:23 PM  synced recovery
+INFO 5/17/2025, 10:34:23 PM  ----------------before-quit-----------------
+INFO 5/17/2025, 10:34:23 PM  ------------------will-quit------------------
+INFO 5/17/2025, 10:34:23 PM  -----------------quit------------------
+INFO 5/17/2025, 10:34:23 PM  closeLogging
+INFO 5/17/2025, 10:34:26 PM  launch with argv [/usr/share/typora/Typora]
+INFO 5/17/2025, 10:34:26 PM  ------------------start------------------
+DEBUG 5/17/2025, 10:34:26 PM  prepDatabase /home/gui/.config/Typora/profile.data
+DEBUG 5/17/2025, 10:34:26 PM  prepDatabase /home/gui/.config/Typora/history.data
+INFO 5/17/2025, 10:34:26 PM  OS is linux 6.14.5-arch1-1
+INFO 5/17/2025, 10:34:26 PM  start LM in devVersion=false
+INFO 5/17/2025, 10:34:26 PM  [watch L]
+DEBUG 5/17/2025, 10:34:26 PM  prepDatabase /home/gui/.config/Typora/SX6SalfPSx
+INFO 5/17/2025, 10:34:26 PM  ls put SLicense
+DEBUG 5/17/2025, 10:34:26 PM  onUnfillLicense
+DEBUG 5/17/2025, 10:34:26 PM  trailRemains is 15
+INFO 5/17/2025, 10:34:26 PM  [L] installDate is 5/17/2025, trail remains: 15 days
+INFO 5/17/2025, 10:34:26 PM  [watch L] hasL: false
+INFO 5/17/2025, 10:34:26 PM  typora version: 1.10.8
+user-dict.json not found
+DEBUG 5/17/2025, 10:34:26 PM  app.openFile
+DEBUG 5/17/2025, 10:34:26 PM  putAccelerator File -> &File
+DEBUG 5/17/2025, 10:34:26 PM  putAccelerator Edit -> &Edit
+DEBUG 5/17/2025, 10:34:26 PM  putAccelerator Paragraph -> &Paragraph
+DEBUG 5/17/2025, 10:34:26 PM  putAccelerator Format -> F&ormat
+DEBUG 5/17/2025, 10:34:26 PM  putAccelerator View -> &View
+DEBUG 5/17/2025, 10:34:26 PM  putAccelerator Themes -> &Themes
+DEBUG 5/17/2025, 10:34:26 PM  putAccelerator Help -> &Help
+DEBUG 5/17/2025, 10:34:26 PM  added recovery 1 null  (0)
+INFO 5/17/2025, 10:34:26 PM  [focus] 1
+INFO 5/17/2025, 10:34:26 PM  [blur] 1
+INFO 5/17/2025, 10:34:26 PM  [win] blur
+INFO 5/17/2025, 10:34:26 PM  [focus] 1
+INFO 5/17/2025, 10:34:26 PM  synced recovery
+DEBUG 5/17/2025, 10:34:27 PM  onUnfillLicense
+INFO 5/17/2025, 10:34:27 PM  handle document.loadData
+DEBUG 5/17/2025, 10:34:27 PM  document.loadData 0
+ERROR 5/17/2025, 10:34:27 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 10:34:27 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 10:34:27 PM  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 5/17/2025, 10:34:27 PM  [RenderProcess 1][Log] reset NodeMap
+DEBUG 5/17/2025, 10:34:27 PM  added recovery 1   (0)
+INFO 5/17/2025, 10:34:27 PM  synced recovery
+INFO 5/17/2025, 10:34:27 PM  [RenderProcess 1][Log] onBecomeActive
+INFO 5/17/2025, 10:34:27 PM  [RenderProcess 1][Log] File.activeWindow = true
+ERROR 5/17/2025, 10:34:30 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 10:34:30 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+DEBUG 5/17/2025, 10:34:33 PM  added recovery 1  あｓだｓ (4)
+INFO 5/17/2025, 10:34:33 PM  synced recovery
+DEBUG 5/17/2025, 10:34:35 PM  added recovery 1  や (1)
+INFO 5/17/2025, 10:34:35 PM  synced recovery
+DEBUG 5/17/2025, 10:34:37 PM  added recovery 1  や (1)
+INFO 5/17/2025, 10:34:37 PM  synced recovery
+DEBUG 5/17/2025, 10:34:43 PM  added recovery 1   (0)
+INFO 5/17/2025, 10:34:43 PM  synced recovery
+ERROR 5/17/2025, 10:34:45 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 10:34:45 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+DEBUG 5/17/2025, 10:34:47 PM  added recovery 1   (0)
+INFO 5/17/2025, 10:34:47 PM  synced recovery
+ERROR 5/17/2025, 10:34:48 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/17/2025, 10:34:48 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+DEBUG 5/17/2025, 10:34:50 PM  added recovery 1   (0)
+INFO 5/17/2025, 10:34:50 PM  synced recovery
+INFO 5/17/2025, 10:34:51 PM  [blur] 1
+INFO 5/17/2025, 10:34:51 PM  [win] blur
+INFO 5/17/2025, 10:34:58 PM  [focus] 1
+DEBUG 5/17/2025, 10:35:00 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...le colabを使います！！" (72)
+INFO 5/17/2025, 10:35:00 PM  synced recovery
+INFO 5/17/2025, 10:35:02 PM  [blur] 1
+INFO 5/17/2025, 10:35:02 PM  [win] blur
+INFO 5/17/2025, 10:35:03 PM  [focus] 1
+DEBUG 5/17/2025, 10:35:04 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...le colabを使います！！" (72)
+INFO 5/17/2025, 10:35:04 PM  synced recovery
+DEBUG 5/17/2025, 10:35:07 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...うって深く考えすぎちゃうんだ笑" (172)
+INFO 5/17/2025, 10:35:07 PM  synced recovery
+DEBUG 5/17/2025, 10:35:09 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...うって深く考えすぎちゃうんだ笑" (173)
+INFO 5/17/2025, 10:35:09 PM  synced recovery
+DEBUG 5/17/2025, 10:35:10 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...て深く考えすぎちゃうんだ笑
+
+" (175)
+INFO 5/17/2025, 10:35:10 PM  synced recovery
+DEBUG 5/17/2025, 10:35:16 PM  license.show (detail ? undefined)
+INFO 5/17/2025, 10:35:17 PM  [blur] 1
+INFO 5/17/2025, 10:35:17 PM  [win] blur
+INFO 5/17/2025, 10:35:17 PM  [focus] 2
+INFO 5/17/2025, 10:35:17 PM  [focus] 1
+INFO 5/17/2025, 10:35:26 PM  window.File && (function() {
+					ClientCommand.zoomIn();
+				})();
+DEBUG 5/17/2025, 10:35:27 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...うって深く考えすぎちゃうんだ笑" (173)
+INFO 5/17/2025, 10:35:27 PM  synced recovery
+DEBUG 5/17/2025, 10:35:32 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...うって深く考えすぎちゃうんだ笑" (173)
+INFO 5/17/2025, 10:35:32 PM  synced recovery
+INFO 5/17/2025, 10:35:35 PM  [blur] 1
+INFO 5/17/2025, 10:35:35 PM  [win] blur
+INFO 5/17/2025, 10:35:36 PM  [focus] 1
+INFO 5/17/2025, 10:35:41 PM  [blur] 1
+INFO 5/17/2025, 10:35:41 PM  [win] blur
+INFO 5/17/2025, 10:35:44 PM  [focus] 1
+INFO 5/17/2025, 10:35:46 PM  [blur] 1
+INFO 5/17/2025, 10:35:46 PM  [win] blur
+INFO 5/17/2025, 10:35:54 PM  [focus] 1
+DEBUG 5/17/2025, 10:35:56 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...うって深く考えすぎちゃうんだ笑" (173)
+INFO 5/17/2025, 10:35:56 PM  synced recovery
+INFO 5/17/2025, 10:35:57 PM  [blur] 1
+INFO 5/17/2025, 10:35:57 PM  [win] blur
+INFO 5/17/2025, 10:36:15 PM  [focus] 1
+DEBUG 5/17/2025, 10:36:18 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...く考えすぎちゃうんだ笑
+
+
+
+" (177)
+INFO 5/17/2025, 10:36:18 PM  synced recovery
+DEBUG 5/17/2025, 10:36:20 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...て深く考えすぎちゃうんだ笑
+
+" (175)
+INFO 5/17/2025, 10:36:20 PM  synced recovery
+DEBUG 5/17/2025, 10:36:22 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...て深く考えすぎちゃうんだ笑
+
+" (175)
+INFO 5/17/2025, 10:36:22 PM  synced recovery
+DEBUG 5/17/2025, 10:36:28 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...考えすぎちゃうんだ笑
+
+うん！" (178)
+INFO 5/17/2025, 10:36:28 PM  synced recovery
+INFO 5/17/2025, 10:36:32 PM  [blur] 1
+INFO 5/17/2025, 10:36:32 PM  [win] blur
+INFO 5/17/2025, 10:36:36 PM  [focus] 1
+DEBUG 5/17/2025, 10:36:40 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...て深く考えすぎちゃうんだ笑
+
+" (175)
+INFO 5/17/2025, 10:36:40 PM  synced recovery
+DEBUG 5/17/2025, 10:36:45 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...考えすぎちゃうんだ笑
+
+ハロー" (178)
+INFO 5/17/2025, 10:36:45 PM  synced recovery
+DEBUG 5/17/2025, 10:36:49 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...ちゃうんだ笑
+
+ハローゆきな！" (182)
+INFO 5/17/2025, 10:36:49 PM  synced recovery
+DEBUG 5/17/2025, 10:36:54 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...ゃうんだ笑
+
+ハロー、ゆきな！" (183)
+INFO 5/17/2025, 10:36:54 PM  synced recovery
+DEBUG 5/17/2025, 10:36:56 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...
+ハロー、ゆきな！なんかおそｋ" (189)
+INFO 5/17/2025, 10:36:56 PM  synced recovery
+DEBUG 5/17/2025, 10:36:59 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...だ笑
+
+ハロー、ゆきな！なんか" (186)
+INFO 5/17/2025, 10:36:59 PM  synced recovery
+DEBUG 5/17/2025, 10:37:02 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...
+
+ハロー、ゆきな！なんか変死" (188)
+INFO 5/17/2025, 10:37:02 PM  synced recovery
+DEBUG 5/17/2025, 10:37:06 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...
+ハロー、ゆきな！なんか返信が" (189)
+INFO 5/17/2025, 10:37:06 PM  synced recovery
+DEBUG 5/17/2025, 10:37:08 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...
+ハロー、ゆきな！なんか返信は" (189)
+INFO 5/17/2025, 10:37:08 PM  synced recovery
+DEBUG 5/17/2025, 10:37:10 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...
+ハロー、ゆきな！なんか返信が" (189)
+INFO 5/17/2025, 10:37:10 PM  synced recovery
+DEBUG 5/17/2025, 10:37:14 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...ゆきな！なんか返信が遅くなった" (194)
+INFO 5/17/2025, 10:37:14 PM  synced recovery
+DEBUG 5/17/2025, 10:37:17 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...ゆきな！なんか返信が遅くなった" (194)
+INFO 5/17/2025, 10:37:17 PM  synced recovery
+DEBUG 5/17/2025, 10:37:22 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...な！なんか返信が遅くなったから" (196)
+INFO 5/17/2025, 10:37:22 PM  synced recovery
+DEBUG 5/17/2025, 10:37:27 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...信が遅くなったから、ごめんね！" (202)
+INFO 5/17/2025, 10:37:27 PM  synced recovery
+DEBUG 5/17/2025, 10:37:30 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...が遅くなったから、ごめんね！
+" (203)
+INFO 5/17/2025, 10:37:30 PM  synced recovery
+DEBUG 5/17/2025, 10:37:37 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...が遅くなったから、ごめんね！
+" (205)
+INFO 5/17/2025, 10:37:37 PM  synced recovery
+DEBUG 5/17/2025, 10:37:48 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...返信が遅くなった、ごめんね！
+" (203)
+INFO 5/17/2025, 10:37:48 PM  synced recovery
+DEBUG 5/17/2025, 10:37:52 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...返信が遅くなった、ごめんね！
+" (204)
+INFO 5/17/2025, 10:37:52 PM  synced recovery
+INFO 5/17/2025, 10:37:59 PM  [blur] 1
+INFO 5/17/2025, 10:37:59 PM  [win] blur
+INFO 5/17/2025, 10:38:03 PM  [focus] 1
+DEBUG 5/17/2025, 10:38:05 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...返信が遅くなった、ごめんね！
+" (204)
+INFO 5/17/2025, 10:38:05 PM  synced recovery
+INFO 5/17/2025, 10:38:05 PM  [blur] 1
+INFO 5/17/2025, 10:38:05 PM  [win] blur
+INFO 5/17/2025, 10:38:05 PM  [focus] 1
+DEBUG 5/17/2025, 10:38:08 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...返信が遅くなった、ごめんね！
+" (204)
+INFO 5/17/2025, 10:38:08 PM  synced recovery
+INFO 5/17/2025, 10:38:09 PM  [blur] 1
+INFO 5/17/2025, 10:38:09 PM  [win] blur
+INFO 5/17/2025, 10:38:17 PM  [focus] 1
+DEBUG 5/17/2025, 10:38:22 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...返信が遅くなった、ごめんね！
+" (207)
+INFO 5/17/2025, 10:38:22 PM  synced recovery
+DEBUG 5/17/2025, 10:38:25 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...返信が遅くなった、ごめんね！
+" (209)
+INFO 5/17/2025, 10:38:25 PM  synced recovery
+DEBUG 5/17/2025, 10:38:27 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...返信が遅くなった、ごめんね！
+" (212)
+INFO 5/17/2025, 10:38:27 PM  synced recovery
+DEBUG 5/17/2025, 10:38:29 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...返信が遅くなった、ごめんね！
+" (213)
+INFO 5/17/2025, 10:38:29 PM  synced recovery
+DEBUG 5/17/2025, 10:38:33 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...返信が遅くなった、ごめんね！
+" (216)
+INFO 5/17/2025, 10:38:33 PM  synced recovery
+DEBUG 5/17/2025, 10:38:53 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...が遅くなったから、ごめんね！
+" (218)
+INFO 5/17/2025, 10:38:53 PM  synced recovery
+INFO 5/17/2025, 10:38:57 PM  [blur] 1
+INFO 5/17/2025, 10:38:57 PM  [win] blur
+INFO 5/17/2025, 10:39:00 PM  [focus] 1
+DEBUG 5/17/2025, 10:39:01 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...が遅くなったから、ごめんね！
+" (218)
+INFO 5/17/2025, 10:39:01 PM  synced recovery
+DEBUG 5/17/2025, 10:39:03 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...くなったから、ごめんね！
+
+運" (220)
+INFO 5/17/2025, 10:39:03 PM  synced recovery
+DEBUG 5/17/2025, 10:39:06 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...ったから、ごめんね！
+
+うん！" (222)
+INFO 5/17/2025, 10:39:06 PM  synced recovery
+INFO 5/17/2025, 10:39:08 PM  [blur] 1
+INFO 5/17/2025, 10:39:08 PM  [win] blur
+INFO 5/17/2025, 10:39:11 PM  [focus] 1
+DEBUG 5/17/2025, 10:39:12 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...ったから、ごめんね！
+
+うん！" (222)
+INFO 5/17/2025, 10:39:12 PM  synced recovery
+DEBUG 5/17/2025, 10:39:17 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...ったから、ごめんね！
+
+うん！" (222)
+INFO 5/17/2025, 10:39:17 PM  synced recovery
+DEBUG 5/17/2025, 10:39:20 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...、ごめんね！
+
+うん！実は、お" (226)
+INFO 5/17/2025, 10:39:20 PM  synced recovery
+DEBUG 5/17/2025, 10:39:23 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...ら、ごめんね！
+
+うん！実は、" (225)
+INFO 5/17/2025, 10:39:23 PM  synced recovery
+DEBUG 5/17/2025, 10:39:29 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...ごめんね！
+
+うん！実は、歴史" (227)
+INFO 5/17/2025, 10:39:29 PM  synced recovery
+DEBUG 5/17/2025, 10:39:33 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...ね！
+
+うん！実は、歴史は俺の" (230)
+INFO 5/17/2025, 10:39:33 PM  synced recovery
+DEBUG 5/17/2025, 10:39:35 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...めんね！
+
+うん！実は、歴史は" (228)
+INFO 5/17/2025, 10:39:35 PM  synced recovery
+DEBUG 5/17/2025, 10:39:37 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...ね！
+
+うん！実は、歴史は僕の" (230)
+INFO 5/17/2025, 10:39:37 PM  synced recovery
+DEBUG 5/17/2025, 10:39:46 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...
+うん！実は、歴史は僕の好きな" (233)
+INFO 5/17/2025, 10:39:46 PM  synced recovery
+INFO 5/17/2025, 10:39:49 PM  [blur] 1
+INFO 5/17/2025, 10:39:49 PM  [win] blur
+INFO 5/17/2025, 10:40:17 PM  [focus] 1
+DEBUG 5/17/2025, 10:40:18 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...
+うん！実は、歴史は僕の好きな" (233)
+INFO 5/17/2025, 10:40:18 PM  synced recovery
+DEBUG 5/17/2025, 10:40:19 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...ね！
+
+うん！実は、歴史は僕の" (230)
+INFO 5/17/2025, 10:40:19 PM  synced recovery
+DEBUG 5/17/2025, 10:40:23 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...！実は、歴史は僕のお気に入りの" (236)
+INFO 5/17/2025, 10:40:23 PM  synced recovery
+INFO 5/17/2025, 10:40:30 PM  [blur] 1
+INFO 5/17/2025, 10:40:30 PM  [win] blur
+DEBUG 5/17/2025, 10:40:30 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...歴史は僕のお気に入りのきょうか" (240)
+INFO 5/17/2025, 10:40:30 PM  synced recovery
+INFO 5/17/2025, 10:40:37 PM  [focus] 1
+DEBUG 5/17/2025, 10:40:39 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...は、歴史は僕のお気に入りの強化" (238)
+INFO 5/17/2025, 10:40:39 PM  synced recovery
+DEBUG 5/17/2025, 10:40:42 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...は、歴史は僕のお気に入りの教科" (238)
+INFO 5/17/2025, 10:40:42 PM  synced recovery
+DEBUG 5/17/2025, 10:40:46 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...歴史は僕のお気に入りの教科んｄ" (240)
+INFO 5/17/2025, 10:40:46 PM  synced recovery
+DEBUG 5/17/2025, 10:40:48 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...は、歴史は僕のお気に入りの教科" (238)
+INFO 5/17/2025, 10:40:48 PM  synced recovery
+DEBUG 5/17/2025, 10:40:53 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...は、歴史は僕のお気に入りの教科" (238)
+INFO 5/17/2025, 10:40:53 PM  synced recovery
+DEBUG 5/17/2025, 10:40:57 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...、歴史は僕のお気に入りの教科笑" (239)
+INFO 5/17/2025, 10:40:57 PM  synced recovery
+DEBUG 5/17/2025, 10:41:02 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...歴史は僕のお気に入りの教科笑　" (240)
+INFO 5/17/2025, 10:41:02 PM  synced recovery
+DEBUG 5/17/2025, 10:41:45 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...史は僕のお気に入りの教科笑　兄" (241)
+INFO 5/17/2025, 10:41:45 PM  synced recovery
+DEBUG 5/17/2025, 10:41:49 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...は僕のお気に入りの教科笑　何が" (242)
+INFO 5/17/2025, 10:41:49 PM  synced recovery
+DEBUG 5/17/2025, 10:41:50 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...、歴史は僕のお気に入りの教科笑" (239)
+INFO 5/17/2025, 10:41:50 PM  synced recovery
+DEBUG 5/17/2025, 10:41:53 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...史は僕のお気に入りの教科笑　何" (241)
+INFO 5/17/2025, 10:41:53 PM  synced recovery
+DEBUG 5/17/2025, 10:41:57 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...に入りの教科笑　何が好きなの？" (247)
+INFO 5/17/2025, 10:41:57 PM  synced recovery
+DEBUG 5/17/2025, 10:42:04 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...りの教科笑　あｎ何が好きなの？" (249)
+INFO 5/17/2025, 10:42:04 PM  synced recovery
+DEBUG 5/17/2025, 10:42:08 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...の教科笑　貴方は何が好きなの？" (250)
+INFO 5/17/2025, 10:42:08 PM  synced recovery
+DEBUG 5/17/2025, 10:42:24 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...の教科笑　貴方は何が好きなの？" (250)
+INFO 5/17/2025, 10:42:24 PM  synced recovery
+INFO 5/17/2025, 10:42:28 PM  [blur] 1
+INFO 5/17/2025, 10:42:28 PM  [win] blur
+INFO 5/17/2025, 10:42:40 PM  [focus] 1
+DEBUG 5/17/2025, 10:42:41 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...の教科笑　貴方は何が好きなの？" (250)
+INFO 5/17/2025, 10:42:41 PM  synced recovery
+DEBUG 5/17/2025, 10:42:43 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...の教科笑　貴方はぢが好きなの？" (250)
+INFO 5/17/2025, 10:42:43 PM  synced recovery
+DEBUG 5/17/2025, 10:42:44 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...教科笑　貴方はどのが好きなの？" (251)
+INFO 5/17/2025, 10:42:44 PM  synced recovery
+DEBUG 5/17/2025, 10:42:47 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...笑　貴方はどの教科が好きなの？" (253)
+INFO 5/17/2025, 10:42:47 PM  synced recovery
+DEBUG 5/17/2025, 10:42:51 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...笑　貴方はどの教科が好きなの？" (253)
+INFO 5/17/2025, 10:42:51 PM  synced recovery
+DEBUG 5/17/2025, 10:42:55 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...笑 貴方はどの教科が好きなの？" (253)
+INFO 5/17/2025, 10:42:55 PM  synced recovery
+DEBUG 5/17/2025, 10:43:00 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...科笑貴方はどの教科が好きなの？" (252)
+INFO 5/17/2025, 10:43:00 PM  synced recovery
+DEBUG 5/17/2025, 10:43:04 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...科笑貴方はどの教科が好きなの？" (252)
+INFO 5/17/2025, 10:43:04 PM  synced recovery
+DEBUG 5/17/2025, 10:43:07 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...笑 貴方はどの教科が好きなの？" (253)
+INFO 5/17/2025, 10:43:07 PM  synced recovery
+DEBUG 5/17/2025, 10:43:10 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...笑 貴方はどの教科が好きなの？" (253)
+INFO 5/17/2025, 10:43:10 PM  synced recovery
+DEBUG 5/17/2025, 10:43:13 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...笑 貴方はどの教科が好きなの？" (253)
+INFO 5/17/2025, 10:43:13 PM  synced recovery
+DEBUG 5/17/2025, 10:43:16 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...笑 貴方はどの教科が好きなの？" (253)
+INFO 5/17/2025, 10:43:16 PM  synced recovery
+DEBUG 5/17/2025, 10:43:22 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手... ;貴方はどの教科が好きなの？" (254)
+INFO 5/17/2025, 10:43:22 PM  synced recovery
+DEBUG 5/17/2025, 10:43:25 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...笑 貴方はどの教科が好きなの？" (253)
+INFO 5/17/2025, 10:43:25 PM  synced recovery
+INFO 5/17/2025, 10:43:31 PM  [blur] 1
+INFO 5/17/2025, 10:43:31 PM  [win] blur
+INFO 5/17/2025, 10:43:37 PM  [focus] 1
+INFO 5/17/2025, 10:43:40 PM  [blur] 1
+INFO 5/17/2025, 10:43:40 PM  [win] blur
+INFO 5/17/2025, 10:44:30 PM  [focus] 1
+DEBUG 5/17/2025, 10:44:34 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...どの教科が好きなの？
+
+ada" (258)
+INFO 5/17/2025, 10:44:34 PM  synced recovery
+DEBUG 5/17/2025, 10:44:37 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...なの？
+
+adaàsdasda" (265)
+INFO 5/17/2025, 10:44:37 PM  synced recovery
+DEBUG 5/17/2025, 10:44:43 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...
+
+adaàsdasdaasd" (268)
+INFO 5/17/2025, 10:44:43 PM  synced recovery
+DEBUG 5/17/2025, 10:44:49 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...daàsdasdaasd
+
+a" (271)
+INFO 5/17/2025, 10:44:49 PM  synced recovery
+DEBUG 5/17/2025, 10:44:50 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...きなの？
+
+adaàsdasd" (264)
+INFO 5/17/2025, 10:44:50 PM  synced recovery
+DEBUG 5/17/2025, 10:44:52 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...笑 貴方はどの教科が好きなの？" (253)
+INFO 5/17/2025, 10:44:52 PM  synced recovery
+INFO 5/17/2025, 10:44:54 PM  [blur] 1
+INFO 5/17/2025, 10:44:54 PM  [win] blur
+INFO 5/17/2025, 10:45:59 PM  [focus] 1
+DEBUG 5/17/2025, 10:46:00 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...笑 貴方はどの教科が好きなの？" (253)
+INFO 5/17/2025, 10:46:00 PM  synced recovery
+DEBUG 5/17/2025, 10:46:04 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...の？
+
+​          " (266)
+INFO 5/17/2025, 10:46:04 PM  synced recovery
+INFO 5/17/2025, 10:46:06 PM  [blur] 1
+INFO 5/17/2025, 10:46:06 PM  [win] blur
+DEBUG 5/17/2025, 10:46:06 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...貴方はどの教科が好きなの？
+
+" (255)
+INFO 5/17/2025, 10:46:06 PM  synced recovery
+INFO 5/17/2025, 10:46:10 PM  [focus] 1
+DEBUG 5/17/2025, 10:46:12 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...方はどの教科が好きなの？
+
+ " (256)
+INFO 5/17/2025, 10:46:12 PM  synced recovery
+DEBUG 5/17/2025, 10:46:19 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...貴方はどの教科が好きなの？
+
+" (255)
+INFO 5/17/2025, 10:46:19 PM  synced recovery
+DEBUG 5/17/2025, 10:46:27 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...どの教科が好きなの？
+
+aaa" (258)
+INFO 5/17/2025, 10:46:27 PM  synced recovery
+DEBUG 5/17/2025, 10:46:30 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...
+
+aaaaaaaasdasd" (268)
+INFO 5/17/2025, 10:46:30 PM  synced recovery
+DEBUG 5/17/2025, 10:46:33 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...
+
+aaaaaaaasdasd" (268)
+INFO 5/17/2025, 10:46:33 PM  synced recovery
+DEBUG 5/17/2025, 10:46:35 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...笑 貴方はどの教科が好きなの？" (253)
+INFO 5/17/2025, 10:46:35 PM  synced recovery
+INFO 5/17/2025, 10:46:36 PM  [blur] 1
+INFO 5/17/2025, 10:46:36 PM  [win] blur
+INFO 5/17/2025, 10:46:38 PM  [focus] 1
+DEBUG 5/17/2025, 10:46:39 PM  added recovery 1  "貴方は歴史が好きなの？私は苦手...笑 貴方はどの教科が好きなの？" (253)
+INFO 5/17/2025, 10:46:39 PM  synced recovery
+INFO 5/17/2025, 10:46:39 PM  [blur] 1
+INFO 5/17/2025, 10:46:39 PM  [win] blur
+INFO 5/17/2025, 10:46:40 PM  [focus] 1
+INFO 5/17/2025, 10:46:44 PM  [blur] 1
+INFO 5/17/2025, 10:46:44 PM  [win] blur
+INFO 5/17/2025, 10:47:06 PM  [focus] 1
+INFO 5/17/2025, 10:47:09 PM  [blur] 1
+INFO 5/17/2025, 10:47:09 PM  [win] blur
+INFO 5/17/2025, 10:47:27 PM  [focus] 1
+INFO 5/17/2025, 10:47:28 PM  addRecentDocument
+INFO 5/17/2025, 10:47:28 PM  synced recovery
+INFO 5/17/2025, 10:47:28 PM  ----------------before-quit-----------------
+INFO 5/17/2025, 10:47:28 PM  ------------------will-quit------------------
+INFO 5/17/2025, 10:47:28 PM  -----------------quit------------------
+INFO 5/17/2025, 10:47:28 PM  closeLogging
+INFO 5/17/2025, 10:47:34 PM  launch with argv [/usr/share/typora/Typora]
+INFO 5/17/2025, 10:47:34 PM  ------------------start------------------
+DEBUG 5/17/2025, 10:47:34 PM  prepDatabase /home/gui/.config/Typora/profile.data
+DEBUG 5/17/2025, 10:47:34 PM  prepDatabase /home/gui/.config/Typora/history.data
+INFO 5/17/2025, 10:47:34 PM  OS is linux 6.14.5-arch1-1
+INFO 5/17/2025, 10:47:34 PM  start LM in devVersion=false
+INFO 5/17/2025, 10:47:34 PM  [watch L]
+DEBUG 5/17/2025, 10:47:34 PM  prepDatabase /home/gui/.config/Typora/SX6SalfPSx
+INFO 5/17/2025, 10:47:34 PM  ls put SLicense
+DEBUG 5/17/2025, 10:47:34 PM  onUnfillLicense
+DEBUG 5/17/2025, 10:47:34 PM  trailRemains is 15
+INFO 5/17/2025, 10:47:34 PM  [L] installDate is 5/17/2025, trail remains: 15 days
+INFO 5/17/2025, 10:47:34 PM  [watch L] hasL: false
+INFO 5/17/2025, 10:47:34 PM  typora version: 1.10.8
+user-dict.json not found
+DEBUG 5/17/2025, 10:47:34 PM  app.openFile
+DEBUG 5/17/2025, 10:47:34 PM  putAccelerator File -> &File
+DEBUG 5/17/2025, 10:47:34 PM  putAccelerator Edit -> &Edit
+DEBUG 5/17/2025, 10:47:34 PM  putAccelerator Paragraph -> &Paragraph
+DEBUG 5/17/2025, 10:47:34 PM  putAccelerator Format -> F&ormat
+DEBUG 5/17/2025, 10:47:34 PM  putAccelerator View -> &View
+DEBUG 5/17/2025, 10:47:34 PM  putAccelerator Themes -> &Themes
+DEBUG 5/17/2025, 10:47:34 PM  putAccelerator Help -> &Help
+DEBUG 5/17/2025, 10:47:34 PM  added recovery 1 null  (0)
+INFO 5/17/2025, 10:47:34 PM  [focus] 1
+INFO 5/17/2025, 10:47:34 PM  synced recovery
+DEBUG 5/17/2025, 10:47:35 PM  onUnfillLicense
+ERROR 5/17/2025, 10:47:35 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 10:47:35 PM  handle document.loadData
+DEBUG 5/17/2025, 10:47:35 PM  document.loadData 1
+ERROR 5/17/2025, 10:47:35 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/17/2025, 10:47:35 PM  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 5/17/2025, 10:47:35 PM  [RenderProcess 1][Log] reset NodeMap
+DEBUG 5/17/2025, 10:47:35 PM  added recovery 1   (0)
+INFO 5/17/2025, 10:47:35 PM  synced recovery
+INFO 5/17/2025, 10:47:35 PM  [RenderProcess 1][Log] onBecomeActive
+INFO 5/17/2025, 10:47:35 PM  [RenderProcess 1][Log] File.activeWindow = true
+INFO 5/17/2025, 10:47:37 PM  [blur] 1
+INFO 5/17/2025, 10:47:37 PM  [win] blur
+INFO 5/17/2025, 10:47:37 PM  [focus] 1
+INFO 5/17/2025, 10:47:37 PM  [blur] 1
+INFO 5/17/2025, 10:47:37 PM  [win] blur
+INFO 5/17/2025, 10:47:40 PM  [focus] 1
+INFO 5/17/2025, 10:47:40 PM  addRecentDocument
+INFO 5/17/2025, 10:47:40 PM  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 5/17/2025, 10:47:40 PM  [RenderProcess 1][Log] reset NodeMap
+INFO 5/17/2025, 10:47:40 PM  [RenderProcess 1][Log] readContentFrom /home/gui/Downloads/asd.md
+DEBUG 5/17/2025, 10:47:40 PM  added recovery 1 /home/gui/Downloads/asd.md  (0)
+INFO 5/17/2025, 10:47:40 PM  synced recovery
+DEBUG 5/17/2025, 10:47:42 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...笑 貴方はどの教科が好きなの？" (253)
+INFO 5/17/2025, 10:47:42 PM  synced recovery
+DEBUG 5/17/2025, 10:47:49 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...笑 貴方はどの教科が好きなの？" (253)
+INFO 5/17/2025, 10:47:49 PM  synced recovery
+DEBUG 5/17/2025, 10:47:51 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...笑 貴方はどの教科が好きなの？" (253)
+INFO 5/17/2025, 10:47:51 PM  synced recovery
+INFO 5/17/2025, 10:47:52 PM  [blur] 1
+INFO 5/17/2025, 10:47:52 PM  [win] blur
+INFO 5/17/2025, 10:47:53 PM  [focus] 1
+DEBUG 5/17/2025, 10:47:54 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...笑 貴方はどの教科が好きなの？" (253)
+INFO 5/17/2025, 10:47:54 PM  synced recovery
+DEBUG 5/17/2025, 10:47:59 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...笑　貴方はどの教科が好きなの？" (253)
+INFO 5/17/2025, 10:47:59 PM  synced recovery
+DEBUG 5/17/2025, 10:48:18 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...笑　貴方はどの教科が好き？
+
+" (253)
+INFO 5/17/2025, 10:48:18 PM  synced recovery
+DEBUG 5/17/2025, 10:48:28 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...は僕のお気に入りの教科笑　
+
+" (242)
+INFO 5/17/2025, 10:48:28 PM  synced recovery
+DEBUG 5/17/2025, 10:48:39 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...史は僕のお気に入りの教科笑
+
+" (241)
+INFO 5/17/2025, 10:48:39 PM  synced recovery
+DEBUG 5/17/2025, 10:48:40 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...は僕のお気に入りの教科笑　
+
+" (242)
+INFO 5/17/2025, 10:48:40 PM  synced recovery
+INFO 5/17/2025, 10:48:42 PM  [blur] 1
+INFO 5/17/2025, 10:48:42 PM  [win] blur
+INFO 5/17/2025, 10:48:42 PM  [focus] 1
+INFO 5/17/2025, 10:48:43 PM  [blur] 1
+INFO 5/17/2025, 10:48:43 PM  [win] blur
+INFO 5/17/2025, 10:48:43 PM  [focus] 1
+INFO 5/17/2025, 10:48:45 PM  [blur] 1
+INFO 5/17/2025, 10:48:45 PM  [win] blur
+INFO 5/17/2025, 10:49:04 PM  [focus] 1
+INFO 5/17/2025, 10:49:06 PM  [blur] 1
+INFO 5/17/2025, 10:49:06 PM  [win] blur
+INFO 5/17/2025, 10:49:11 PM  [focus] 1
+DEBUG 5/17/2025, 10:49:18 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...お気に入りの教科笑　えー。
+
+" (245)
+INFO 5/17/2025, 10:49:18 PM  synced recovery
+INFO 5/17/2025, 10:49:41 PM  [blur] 1
+INFO 5/17/2025, 10:49:41 PM  [win] blur
+INFO 5/17/2025, 10:49:54 PM  [focus] 1
+DEBUG 5/17/2025, 10:50:23 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...入りの教科笑　えー、にほｎ
+
+" (248)
+INFO 5/17/2025, 10:50:23 PM  synced recovery
+DEBUG 5/17/2025, 10:50:28 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...お気に入りの教科笑　えー、
+
+" (245)
+INFO 5/17/2025, 10:50:28 PM  synced recovery
+INFO 5/17/2025, 10:50:33 PM  [blur] 1
+INFO 5/17/2025, 10:50:33 PM  [win] blur
+INFO 5/17/2025, 10:50:34 PM  [focus] 1
+DEBUG 5/17/2025, 10:51:18 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...入りの教科笑　えー、日本の
+
+" (248)
+INFO 5/17/2025, 10:51:18 PM  synced recovery
+DEBUG 5/17/2025, 10:51:23 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...教科笑　えー、日本の学校は
+
+" (251)
+INFO 5/17/2025, 10:51:23 PM  synced recovery
+DEBUG 5/17/2025, 10:51:29 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...えー、日本の学校はよいｓｈ
+
+" (255)
+INFO 5/17/2025, 10:51:29 PM  synced recovery
+DEBUG 5/17/2025, 10:51:32 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...教科笑　えー、日本の学校は
+
+" (251)
+INFO 5/17/2025, 10:51:32 PM  synced recovery
+DEBUG 5/17/2025, 10:51:36 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...教科笑　えー、日本の学校は
+
+" (251)
+INFO 5/17/2025, 10:51:36 PM  synced recovery
+DEBUG 5/17/2025, 10:51:40 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...えー、日本の学校はいい道あ
+
+" (255)
+INFO 5/17/2025, 10:51:40 PM  synced recovery
+DEBUG 5/17/2025, 10:51:45 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...、日本の学校はいいみたい！
+
+" (257)
+INFO 5/17/2025, 10:51:45 PM  synced recovery
+DEBUG 5/17/2025, 10:51:49 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...の学校はいいみたい！あと、
+
+" (260)
+INFO 5/17/2025, 10:51:49 PM  synced recovery
+DEBUG 5/17/2025, 10:52:19 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...はいいみたい！あと、難しい
+
+" (263)
+INFO 5/17/2025, 10:52:19 PM  synced recovery
+DEBUG 5/17/2025, 10:52:30 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...い！あと、学校は難しいの？
+
+" (268)
+INFO 5/17/2025, 10:52:30 PM  synced recovery
+DEBUG 5/17/2025, 10:52:34 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...学校は難しいの？そんなこと
+
+" (273)
+INFO 5/17/2025, 10:52:34 PM  synced recovery
+DEBUG 5/17/2025, 10:52:45 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...しいの？そんなこと聞いたこ
+
+" (277)
+INFO 5/17/2025, 10:52:45 PM  synced recovery
+DEBUG 5/17/2025, 10:52:48 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...と、学校は難しいの？そんな
+
+" (271)
+INFO 5/17/2025, 10:52:48 PM  synced recovery
+DEBUG 5/17/2025, 10:52:50 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...は難しいの？そんな聞いたこ
+
+" (275)
+INFO 5/17/2025, 10:52:50 PM  synced recovery
+DEBUG 5/17/2025, 10:52:54 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...いの？そんな聞いたことある
+
+" (278)
+INFO 5/17/2025, 10:52:54 PM  synced recovery
+DEBUG 5/17/2025, 10:53:02 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...？そんなこと聞いたことある
+
+" (280)
+INFO 5/17/2025, 10:53:02 PM  synced recovery
+DEBUG 5/17/2025, 10:53:15 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...？そんなこと聞いたことある
+
+" (283)
+INFO 5/17/2025, 10:53:15 PM  synced recovery
+INFO 5/17/2025, 10:53:22 PM  [blur] 1
+INFO 5/17/2025, 10:53:22 PM  [win] blur
+INFO 5/17/2025, 10:53:24 PM  [focus] 1
+DEBUG 5/17/2025, 10:53:37 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...んなこと聞いたことある
+
+たし" (285)
+INFO 5/17/2025, 10:53:37 PM  synced recovery
+DEBUG 5/17/2025, 10:53:46 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...ことある
+
+確かに！たぶんがい" (292)
+INFO 5/17/2025, 10:53:46 PM  synced recovery
+DEBUG 5/17/2025, 10:53:51 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...ある
+
+確かに！たぶん外国人は" (294)
+INFO 5/17/2025, 10:53:51 PM  synced recovery
+DEBUG 5/17/2025, 10:53:57 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...
+確かに！たぶん外国人は日本の" (297)
+INFO 5/17/2025, 10:53:57 PM  synced recovery
+INFO 5/17/2025, 10:53:58 PM  [blur] 1
+INFO 5/17/2025, 10:53:58 PM  [win] blur
+INFO 5/17/2025, 10:54:20 PM  [focus] 1
+INFO 5/17/2025, 10:54:25 PM  [blur] 1
+INFO 5/17/2025, 10:54:25 PM  [win] blur
+INFO 5/17/2025, 11:00:05 PM  [focus] 1
+INFO 5/17/2025, 11:00:06 PM  [blur] 1
+INFO 5/17/2025, 11:00:06 PM  [win] blur
+INFO 5/17/2025, 11:00:14 PM  [focus] 1
+DEBUG 5/17/2025, 11:00:15 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...
+確かに！たぶん外国人は日本の" (297)
+INFO 5/17/2025, 11:00:15 PM  synced recovery
+DEBUG 5/17/2025, 11:00:17 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...確かに！たぶん外国人は日本の " (298)
+INFO 5/17/2025, 11:00:17 PM  synced recovery
+DEBUG 5/17/2025, 11:00:21 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...
+確かに！たぶん外国人は日本の" (297)
+INFO 5/17/2025, 11:00:21 PM  synced recovery
+INFO 5/17/2025, 11:00:22 PM  [blur] 1
+INFO 5/17/2025, 11:00:22 PM  [win] blur
+INFO 5/17/2025, 11:00:47 PM  [focus] 1
+DEBUG 5/17/2025, 11:00:50 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...
+確かに！たぶん外国人は日本の" (297)
+INFO 5/17/2025, 11:00:50 PM  synced recovery
+DEBUG 5/17/2025, 11:00:53 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...かに！たぶん外国人は日本の文化" (299)
+INFO 5/17/2025, 11:00:53 PM  synced recovery
+DEBUG 5/17/2025, 11:00:56 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...
+確かに！たぶん外国人は日本の" (297)
+INFO 5/17/2025, 11:00:56 PM  synced recovery
+INFO 5/17/2025, 11:00:57 PM  [blur] 1
+INFO 5/17/2025, 11:00:57 PM  [win] blur
+INFO 5/17/2025, 11:01:11 PM  [focus] 1
+DEBUG 5/17/2025, 11:01:12 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...
+確かに！たぶん外国人は日本の" (297)
+INFO 5/17/2025, 11:01:12 PM  synced recovery
+DEBUG 5/17/2025, 11:01:16 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...かに！たぶん外国人は日本の常識" (299)
+INFO 5/17/2025, 11:01:16 PM  synced recovery
+DEBUG 5/17/2025, 11:01:23 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...に！たぶん外国人は日本の常識を" (300)
+INFO 5/17/2025, 11:01:23 PM  synced recovery
+DEBUG 5/17/2025, 11:01:25 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...かに！たぶん外国人は日本の常識" (299)
+INFO 5/17/2025, 11:01:25 PM  synced recovery
+DEBUG 5/17/2025, 11:01:27 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...！たぶん外国人は日本の常識をわ" (301)
+INFO 5/17/2025, 11:01:27 PM  synced recovery
+DEBUG 5/17/2025, 11:01:30 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...たぶん外国人は日本の常識がわら" (302)
+INFO 5/17/2025, 11:01:30 PM  synced recovery
+DEBUG 5/17/2025, 11:01:33 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...ん外国人は日本の常識を知らない" (304)
+INFO 5/17/2025, 11:01:33 PM  synced recovery
+DEBUG 5/17/2025, 11:01:41 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...人は日本の常識を知らないから、" (307)
+INFO 5/17/2025, 11:01:41 PM  synced recovery
+DEBUG 5/17/2025, 11:01:43 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...ん外国人は日本の常識を知らない" (304)
+INFO 5/17/2025, 11:01:43 PM  synced recovery
+DEBUG 5/17/2025, 11:01:55 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...は日本の常識を知らない、それで" (308)
+INFO 5/17/2025, 11:01:55 PM  synced recovery
+INFO 5/17/2025, 11:01:58 PM  [blur] 1
+INFO 5/17/2025, 11:01:58 PM  [win] blur
+INFO 5/17/2025, 11:02:09 PM  [focus] 1
+DEBUG 5/17/2025, 11:02:13 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...は日本の常識を知らない、それで" (308)
+INFO 5/17/2025, 11:02:13 PM  synced recovery
+DEBUG 5/17/2025, 11:02:16 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...日本の常識を知らない、それで " (309)
+INFO 5/17/2025, 11:02:16 PM  synced recovery
+DEBUG 5/17/2025, 11:02:18 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...は日本の常識を知らない、それで" (308)
+INFO 5/17/2025, 11:02:18 PM  synced recovery
+INFO 5/17/2025, 11:02:21 PM  [blur] 1
+INFO 5/17/2025, 11:02:21 PM  [win] blur
+INFO 5/17/2025, 11:02:50 PM  [focus] 1
+DEBUG 5/17/2025, 11:02:54 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...の常識を知らないか、それで
+
+" (311)
+INFO 5/17/2025, 11:02:54 PM  synced recovery
+INFO 5/17/2025, 11:03:04 PM  [blur] 1
+INFO 5/17/2025, 11:03:04 PM  [win] blur
+INFO 5/17/2025, 11:03:10 PM  [focus] 1
+INFO 5/17/2025, 11:03:26 PM  [blur] 1
+INFO 5/17/2025, 11:03:26 PM  [win] blur
+INFO 5/17/2025, 11:03:35 PM  [focus] 1
+DEBUG 5/17/2025, 11:03:38 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...を知らないか、おぼえそれで
+
+" (314)
+INFO 5/17/2025, 11:03:38 PM  synced recovery
+DEBUG 5/17/2025, 11:03:43 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...ないか、覚えたくないそれで
+
+" (317)
+INFO 5/17/2025, 11:03:43 PM  synced recovery
+INFO 5/17/2025, 11:03:44 PM  [blur] 1
+INFO 5/17/2025, 11:03:44 PM  [win] blur
+INFO 5/17/2025, 11:03:48 PM  [focus] 1
+DEBUG 5/17/2025, 11:03:53 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...らないか覚えたくないそれで
+
+" (316)
+INFO 5/17/2025, 11:03:53 PM  synced recovery
+DEBUG 5/17/2025, 11:03:55 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...ないか覚えたくない、それで
+
+" (317)
+INFO 5/17/2025, 11:03:55 PM  synced recovery
+DEBUG 5/17/2025, 11:04:02 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...か覚えたくない、それでなｎ
+
+" (319)
+INFO 5/17/2025, 11:04:02 PM  synced recovery
+INFO 5/17/2025, 11:04:12 PM  [blur] 1
+INFO 5/17/2025, 11:04:12 PM  [win] blur
+INFO 5/17/2025, 11:04:16 PM  [focus] 1
+INFO 5/17/2025, 11:04:23 PM  [blur] 1
+INFO 5/17/2025, 11:04:23 PM  [win] blur
+INFO 5/17/2025, 11:04:29 PM  [focus] 1
+DEBUG 5/17/2025, 11:04:35 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...ないか覚えたくない、それで
+
+" (317)
+INFO 5/17/2025, 11:04:35 PM  synced recovery
+INFO 5/17/2025, 11:04:38 PM  [blur] 1
+INFO 5/17/2025, 11:04:38 PM  [win] blur
+INFO 5/17/2025, 11:04:43 PM  [focus] 1
+DEBUG 5/17/2025, 11:04:46 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...か覚えたくない、それでしつ
+
+" (319)
+INFO 5/17/2025, 11:04:46 PM  synced recovery
+DEBUG 5/17/2025, 11:04:52 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...覚えたくない、それで失礼は
+
+" (320)
+INFO 5/17/2025, 11:04:52 PM  synced recovery
+DEBUG 5/17/2025, 11:04:56 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...たくない、それで失礼がたく
+
+" (322)
+INFO 5/17/2025, 11:04:56 PM  synced recovery
+DEBUG 5/17/2025, 11:05:00 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...ない、それで失礼がたくさん
+
+" (324)
+INFO 5/17/2025, 11:05:00 PM  synced recovery
+DEBUG 5/17/2025, 11:05:02 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...覚えたくない、それで失礼が
+
+" (320)
+INFO 5/17/2025, 11:05:02 PM  synced recovery
+DEBUG 5/17/2025, 11:05:06 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...か覚えたくない、それで失礼
+
+" (319)
+INFO 5/17/2025, 11:05:06 PM  synced recovery
+DEBUG 5/17/2025, 11:05:15 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...か覚えたくない、それで失礼
+
+" (319)
+INFO 5/17/2025, 11:05:15 PM  synced recovery
+INFO 5/17/2025, 11:05:17 PM  [blur] 1
+INFO 5/17/2025, 11:05:17 PM  [win] blur
+INFO 5/17/2025, 11:05:30 PM  [focus] 1
+DEBUG 5/17/2025, 11:05:32 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...か覚えたくない、それで失礼
+
+" (319)
+INFO 5/17/2025, 11:05:32 PM  synced recovery
+DEBUG 5/17/2025, 11:05:36 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...ないか覚えたくない、それで
+
+" (317)
+INFO 5/17/2025, 11:05:36 PM  synced recovery
+DEBUG 5/17/2025, 11:05:40 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...ないか覚えたくない、それで
+
+" (317)
+INFO 5/17/2025, 11:05:40 PM  synced recovery
+DEBUG 5/17/2025, 11:05:50 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...覚えたくない、それでがいお
+
+" (320)
+INFO 5/17/2025, 11:05:50 PM  synced recovery
+DEBUG 5/17/2025, 11:05:53 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...覚えたくない、それで外国人
+
+" (320)
+INFO 5/17/2025, 11:05:53 PM  synced recovery
+DEBUG 5/17/2025, 11:06:07 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...ないか覚えたくない、それで
+
+" (317)
+INFO 5/17/2025, 11:06:07 PM  synced recovery
+DEBUG 5/17/2025, 11:06:12 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...覚えたくない、それで失礼も
+
+" (320)
+INFO 5/17/2025, 11:06:12 PM  synced recovery
+DEBUG 5/17/2025, 11:06:23 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...たくない、それで失礼も悪い
+
+" (322)
+INFO 5/17/2025, 11:06:23 PM  synced recovery
+DEBUG 5/17/2025, 11:06:27 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...、それで失礼も悪いね。。。
+
+" (326)
+INFO 5/17/2025, 11:06:27 PM  synced recovery
+DEBUG 5/17/2025, 11:06:45 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...、それで失礼も悪いね。。。
+
+" (328)
+INFO 5/17/2025, 11:06:45 PM  synced recovery
+DEBUG 5/17/2025, 11:06:46 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...から、で失礼も悪いね。。。
+
+" (326)
+INFO 5/17/2025, 11:06:46 PM  synced recovery
+DEBUG 5/17/2025, 11:06:49 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...、それで失礼も悪いね。。。
+
+" (326)
+INFO 5/17/2025, 11:06:49 PM  synced recovery
+DEBUG 5/17/2025, 11:06:54 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...ない、それで失礼もね。。。
+
+" (324)
+INFO 5/17/2025, 11:06:54 PM  synced recovery
+DEBUG 5/17/2025, 11:07:02 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...、それで失礼の問題ね。。。
+
+" (326)
+INFO 5/17/2025, 11:07:02 PM  synced recovery
+DEBUG 5/17/2025, 11:07:05 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...れで失礼の問題がるね。。。
+
+" (328)
+INFO 5/17/2025, 11:07:05 PM  synced recovery
+DEBUG 5/17/2025, 11:07:08 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...、それで失礼の問題がるね。。。" (326)
+INFO 5/17/2025, 11:07:08 PM  synced recovery
+INFO 5/17/2025, 11:07:31 PM  [blur] 1
+INFO 5/17/2025, 11:07:31 PM  [win] blur
+INFO 5/17/2025, 11:07:46 PM  [focus] 1
+DEBUG 5/17/2025, 11:07:47 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...、それで失礼の問題がるね。。。" (326)
+INFO 5/17/2025, 11:07:47 PM  synced recovery
+DEBUG 5/17/2025, 11:07:52 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...れで失礼の問題がるね。。。そう" (328)
+INFO 5/17/2025, 11:07:52 PM  synced recovery
+DEBUG 5/17/2025, 11:07:59 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...失礼の問題がるね。。。そうした" (330)
+INFO 5/17/2025, 11:07:59 PM  synced recovery
+INFO 5/17/2025, 11:08:04 PM  [blur] 1
+INFO 5/17/2025, 11:08:04 PM  [win] blur
+DEBUG 5/17/2025, 11:08:04 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...失礼の問題がるね。。。そうした" (330)
+INFO 5/17/2025, 11:08:04 PM  synced recovery
+INFO 5/17/2025, 11:08:14 PM  [focus] 1
+DEBUG 5/17/2025, 11:08:22 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...の問題がるね。。。そうしたこと" (332)
+INFO 5/17/2025, 11:08:22 PM  synced recovery
+DEBUG 5/17/2025, 11:09:17 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...、それで失礼の問題がるね。。。" (326)
+INFO 5/17/2025, 11:09:17 PM  synced recovery
+DEBUG 5/17/2025, 11:09:29 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...、それで失礼の問題がるね。。。" (323)
+INFO 5/17/2025, 11:09:29 PM  synced recovery
+DEBUG 5/17/2025, 11:09:32 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...、それで失礼の問題がるね。。。" (323)
+INFO 5/17/2025, 11:09:32 PM  synced recovery
+DEBUG 5/17/2025, 11:09:35 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...れで失礼の問題がるね。。。多分" (325)
+INFO 5/17/2025, 11:09:35 PM  synced recovery
+DEBUG 5/17/2025, 11:09:48 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...で失礼の問題がるね。。。たぶｎ" (326)
+INFO 5/17/2025, 11:09:48 PM  synced recovery
+DEBUG 5/17/2025, 11:09:49 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...れで失礼の問題がるね。。。多分" (325)
+INFO 5/17/2025, 11:09:49 PM  synced recovery
+DEBUG 5/17/2025, 11:09:52 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...で失礼の問題がるね。。。たぶん" (326)
+INFO 5/17/2025, 11:09:52 PM  synced recovery
+DEBUG 5/17/2025, 11:09:53 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...で失礼の問題がるね。。。たぶん" (326)
+INFO 5/17/2025, 11:09:53 PM  synced recovery
+INFO 5/17/2025, 11:09:58 PM  [blur] 1
+INFO 5/17/2025, 11:09:58 PM  [win] blur
+INFO 5/17/2025, 11:10:37 PM  [focus] 1
+INFO 5/17/2025, 11:10:50 PM  [blur] 1
+INFO 5/17/2025, 11:10:50 PM  [win] blur
+INFO 5/17/2025, 11:10:54 PM  [focus] 1
+DEBUG 5/17/2025, 11:11:47 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...れで失礼の問題がるね。。。
+
+" (325)
+INFO 5/17/2025, 11:11:47 PM  synced recovery
+DEBUG 5/17/2025, 11:11:53 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...れで失礼の問題がるね。。。
+
+" (325)
+INFO 5/17/2025, 11:11:53 PM  synced recovery
+INFO 5/17/2025, 11:12:01 PM  [blur] 1
+INFO 5/17/2025, 11:12:01 PM  [win] blur
+INFO 5/17/2025, 11:12:11 PM  [focus] 1
+DEBUG 5/17/2025, 11:12:14 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...れで失礼の問題がるね。。。
+
+" (325)
+INFO 5/17/2025, 11:12:14 PM  synced recovery
+INFO 5/17/2025, 11:12:21 PM  [blur] 1
+INFO 5/17/2025, 11:12:21 PM  [win] blur
+INFO 5/17/2025, 11:12:22 PM  [focus] 1
+DEBUG 5/17/2025, 11:12:39 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...で失礼の問題がるね。。。a
+
+" (326)
+INFO 5/17/2025, 11:12:39 PM  synced recovery
+DEBUG 5/17/2025, 11:12:41 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...れで失礼の問題がるね。。。
+
+" (325)
+INFO 5/17/2025, 11:12:41 PM  synced recovery
+DEBUG 5/17/2025, 11:12:53 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...るね。。。I think 
+
+" (333)
+INFO 5/17/2025, 11:12:53 PM  synced recovery
+DEBUG 5/17/2025, 11:12:56 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...nk that i've 
+
+" (343)
+INFO 5/17/2025, 11:12:56 PM  synced recovery
+DEBUG 5/17/2025, 11:12:59 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...e heard that 
+
+" (354)
+INFO 5/17/2025, 11:12:59 PM  synced recovery
+DEBUG 5/17/2025, 11:13:03 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...t a lot lol, 
+
+" (365)
+INFO 5/17/2025, 11:13:03 PM  synced recovery
+DEBUG 5/17/2025, 11:13:10 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...ol, when i ta
+
+" (374)
+INFO 5/17/2025, 11:13:10 PM  synced recovery
+DEBUG 5/17/2025, 11:13:13 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...panese people
+
+" (399)
+INFO 5/17/2025, 11:13:13 PM  synced recovery
+DEBUG 5/17/2025, 11:13:14 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...panese people
+
+" (399)
+INFO 5/17/2025, 11:13:14 PM  synced recovery
+DEBUG 5/17/2025, 11:13:15 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手... people, they
+
+" (405)
+INFO 5/17/2025, 11:13:15 PM  synced recovery
+DEBUG 5/17/2025, 11:13:18 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...panese people
+
+" (399)
+INFO 5/17/2025, 11:13:18 PM  synced recovery
+DEBUG 5/17/2025, 11:13:20 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...h other ajpan
+
+" (395)
+INFO 5/17/2025, 11:13:20 PM  synced recovery
+DEBUG 5/17/2025, 11:13:23 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...her japanese,
+
+" (399)
+INFO 5/17/2025, 11:13:23 PM  synced recovery
+DEBUG 5/17/2025, 11:13:25 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...ith other jap
+
+" (393)
+INFO 5/17/2025, 11:13:25 PM  synced recovery
+DEBUG 5/17/2025, 11:13:30 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手... lol, i'veen 
+
+" (372)
+INFO 5/17/2025, 11:13:30 PM  synced recovery
+DEBUG 5/17/2025, 11:13:32 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...ot lol, i've 
+
+" (370)
+INFO 5/17/2025, 11:13:32 PM  synced recovery
+DEBUG 5/17/2025, 11:13:36 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...e seen videos
+
+" (381)
+INFO 5/17/2025, 11:13:36 PM  synced recovery
+DEBUG 5/17/2025, 11:14:22 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...t a lot lol, 
+
+" (365)
+INFO 5/17/2025, 11:14:22 PM  synced recovery
+DEBUG 5/17/2025, 11:14:34 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...mewhere lol, 
+
+" (369)
+INFO 5/17/2025, 11:14:34 PM  synced recovery
+DEBUG 5/17/2025, 11:14:46 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...mewhere lol, 
+
+" (369)
+INFO 5/17/2025, 11:14:46 PM  synced recovery
+DEBUG 5/17/2025, 11:14:49 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...e lol, japan 
+
+" (375)
+INFO 5/17/2025, 11:14:49 PM  synced recovery
+DEBUG 5/17/2025, 11:14:56 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...mewhere lol, 
+
+" (369)
+INFO 5/17/2025, 11:14:56 PM  synced recovery
+DEBUG 5/17/2025, 11:15:01 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...ere lol, japa
+
+" (373)
+INFO 5/17/2025, 11:15:01 PM  synced recovery
+DEBUG 5/17/2025, 11:15:03 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...ol, japan is 
+
+" (378)
+INFO 5/17/2025, 11:15:03 PM  synced recovery
+DEBUG 5/17/2025, 11:15:11 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手... lol, japan i
+
+" (376)
+INFO 5/17/2025, 11:15:11 PM  synced recovery
+DEBUG 5/17/2025, 11:15:13 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...japan seems l
+
+" (382)
+INFO 5/17/2025, 11:15:13 PM  synced recovery
+DEBUG 5/17/2025, 11:15:16 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...n seems like 
+
+" (386)
+INFO 5/17/2025, 11:15:16 PM  synced recovery
+DEBUG 5/17/2025, 11:15:17 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...like a more i
+
+" (394)
+INFO 5/17/2025, 11:15:17 PM  synced recovery
+DEBUG 5/17/2025, 11:15:20 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手... introverted 
+
+" (405)
+INFO 5/17/2025, 11:15:20 PM  synced recovery
+DEBUG 5/17/2025, 11:15:25 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...erted country
+
+" (412)
+INFO 5/17/2025, 11:15:25 PM  synced recovery
+DEBUG 5/17/2025, 11:15:26 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...ntry, right? 
+
+" (421)
+INFO 5/17/2025, 11:15:26 PM  synced recovery
+DEBUG 5/17/2025, 11:15:30 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...? here in bra
+
+" (432)
+INFO 5/17/2025, 11:15:30 PM  synced recovery
+DEBUG 5/17/2025, 11:15:33 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手... completely d
+
+" (451)
+INFO 5/17/2025, 11:15:33 PM  synced recovery
+DEBUG 5/17/2025, 11:15:36 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...fferent lol
+
+
+
+" (465)
+INFO 5/17/2025, 11:15:36 PM  synced recovery
+DEBUG 5/17/2025, 11:15:48 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...fferent lol
+
+
+
+" (465)
+INFO 5/17/2025, 11:15:48 PM  synced recovery
+DEBUG 5/17/2025, 11:15:52 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...ent lol
+
+そうした
+
+" (469)
+INFO 5/17/2025, 11:15:52 PM  synced recovery
+DEBUG 5/17/2025, 11:15:55 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...ol
+
+そうした聞いたこと
+
+" (474)
+INFO 5/17/2025, 11:15:55 PM  synced recovery
+DEBUG 5/17/2025, 11:15:58 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...
+そうした聞いたことある笑
+
+" (477)
+INFO 5/17/2025, 11:15:58 PM  synced recovery
+DEBUG 5/17/2025, 11:16:00 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...そうした聞いたことある笑　
+
+" (478)
+INFO 5/17/2025, 11:16:00 PM  synced recovery
+DEBUG 5/17/2025, 11:16:02 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...
+そうした聞いたことある笑
+
+" (477)
+INFO 5/17/2025, 11:16:02 PM  synced recovery
+DEBUG 5/17/2025, 11:16:04 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...そうした聞いたことある笑　
+
+" (478)
+INFO 5/17/2025, 11:16:04 PM  synced recovery
+DEBUG 5/17/2025, 11:16:07 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...た聞いたことある笑　日本は
+
+" (481)
+INFO 5/17/2025, 11:16:07 PM  synced recovery
+INFO 5/17/2025, 11:16:11 PM  [blur] 1
+INFO 5/17/2025, 11:16:11 PM  [win] blur
+INFO 5/17/2025, 11:16:30 PM  [focus] 1
+DEBUG 5/17/2025, 11:16:34 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...ことある笑　日本は内向的こ
+
+" (485)
+INFO 5/17/2025, 11:16:34 PM  synced recovery
+DEBUG 5/17/2025, 11:16:37 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...とある笑　日本は内向的コク
+
+" (486)
+INFO 5/17/2025, 11:16:37 PM  synced recovery
+DEBUG 5/17/2025, 11:16:41 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...ことある笑　日本は内向的国
+
+" (485)
+INFO 5/17/2025, 11:16:41 PM  synced recovery
+DEBUG 5/17/2025, 11:16:48 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...る笑　日本は内向的国みたい
+
+" (488)
+INFO 5/17/2025, 11:16:48 PM  synced recovery
+DEBUG 5/17/2025, 11:16:56 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...　日本は内向的国みたいんだ
+
+" (490)
+INFO 5/17/2025, 11:16:56 PM  synced recovery
+DEBUG 5/17/2025, 11:17:02 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...日本は内向的国みたいんだね
+
+" (491)
+INFO 5/17/2025, 11:17:02 PM  synced recovery
+DEBUG 5/17/2025, 11:17:05 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...本は内向的国みたいんだね？
+
+" (492)
+INFO 5/17/2025, 11:17:05 PM  synced recovery
+DEBUG 5/17/2025, 11:17:14 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...国みたいんだね？ブラジルは
+
+" (497)
+INFO 5/17/2025, 11:17:14 PM  synced recovery
+DEBUG 5/17/2025, 11:17:18 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...国みたいんだね？ブラジルは
+
+" (497)
+INFO 5/17/2025, 11:17:18 PM  synced recovery
+DEBUG 5/17/2025, 11:17:23 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...いんだね？ブラジルは本当に
+
+" (500)
+INFO 5/17/2025, 11:17:23 PM  synced recovery
+DEBUG 5/17/2025, 11:17:32 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...だね？ブラジルは本当に違う
+
+" (502)
+INFO 5/17/2025, 11:17:32 PM  synced recovery
+DEBUG 5/17/2025, 11:17:37 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...？ブラジルは本当に違うよ笑
+
+" (504)
+INFO 5/17/2025, 11:17:37 PM  synced recovery
+DEBUG 5/17/2025, 11:17:40 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...fferent lol
+
+
+
+" (465)
+INFO 5/17/2025, 11:17:40 PM  synced recovery
+DEBUG 5/17/2025, 11:17:42 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...ラジルは本当に違うよ笑
+
+
+
+" (366)
+INFO 5/17/2025, 11:17:42 PM  synced recovery
+INFO 5/17/2025, 11:17:45 PM  [blur] 1
+INFO 5/17/2025, 11:17:45 PM  [win] blur
+INFO 5/17/2025, 11:18:00 PM  [focus] 1
+DEBUG 5/17/2025, 11:18:07 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...ラジルは本当に違うよ笑
+
+
+
+" (364)
+INFO 5/17/2025, 11:18:07 PM  synced recovery
+INFO 5/17/2025, 11:18:25 PM  [blur] 1
+INFO 5/17/2025, 11:18:25 PM  [win] blur
+INFO 5/17/2025, 11:18:26 PM  [focus] 1
+DEBUG 5/17/2025, 11:18:31 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...ラジルは本当に違うよ笑
+
+
+
+" (368)
+INFO 5/17/2025, 11:18:31 PM  synced recovery
+DEBUG 5/17/2025, 11:18:35 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...ラジルは本当に違うよ笑
+
+
+
+" (368)
+INFO 5/17/2025, 11:18:35 PM  synced recovery
+DEBUG 5/17/2025, 11:18:37 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...ラジルは本当に違うよ笑
+
+
+
+" (368)
+INFO 5/17/2025, 11:18:37 PM  synced recovery
+INFO 5/17/2025, 11:18:56 PM  [blur] 1
+INFO 5/17/2025, 11:18:56 PM  [win] blur
+INFO 5/17/2025, 11:19:08 PM  [focus] 1
+DEBUG 5/17/2025, 11:19:11 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...ラジルは本当に違うよ笑
+
+
+
+" (378)
+INFO 5/17/2025, 11:19:11 PM  synced recovery
+DEBUG 5/17/2025, 11:19:15 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...ラジルは本当に違うよ笑
+
+
+
+" (375)
+INFO 5/17/2025, 11:19:15 PM  synced recovery
+INFO 5/17/2025, 11:19:25 PM  [blur] 1
+INFO 5/17/2025, 11:19:25 PM  [win] blur
+INFO 5/17/2025, 11:19:42 PM  [focus] 1
+INFO 5/17/2025, 11:19:46 PM  [blur] 1
+INFO 5/17/2025, 11:19:46 PM  [win] blur
+INFO 5/17/2025, 11:19:58 PM  [focus] 1
+INFO 5/17/2025, 11:20:01 PM  [blur] 1
+INFO 5/17/2025, 11:20:01 PM  [win] blur
+INFO 5/17/2025, 11:20:10 PM  [focus] 1
+DEBUG 5/17/2025, 11:20:13 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...ラジルは本当に違うよ笑
+
+
+
+" (376)
+INFO 5/17/2025, 11:20:13 PM  synced recovery
+DEBUG 5/17/2025, 11:20:18 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...ラジルは本当に違うよ笑
+
+
+
+" (372)
+INFO 5/17/2025, 11:20:18 PM  synced recovery
+INFO 5/17/2025, 11:20:23 PM  [blur] 1
+INFO 5/17/2025, 11:20:23 PM  [win] blur
+INFO 5/17/2025, 11:20:36 PM  [focus] 1
+INFO 5/17/2025, 11:20:39 PM  [blur] 1
+INFO 5/17/2025, 11:20:39 PM  [win] blur
+INFO 5/17/2025, 11:20:57 PM  [focus] 1
+INFO 5/17/2025, 11:21:01 PM  [blur] 1
+INFO 5/17/2025, 11:21:01 PM  [win] blur
+INFO 5/17/2025, 11:21:04 PM  [focus] 1
+DEBUG 5/17/2025, 11:21:07 PM  added recovery 1 /home/gui/Downloads/asd.md "貴方は歴史が好きなの？私は苦手...ラジルは本当に違うよ笑
+
+
+
+" (267)
+INFO 5/17/2025, 11:21:07 PM  synced recovery
+DEBUG 5/17/2025, 11:21:09 PM  added recovery 1 /home/gui/Downloads/asd.md "
+
+確かに！外国人は日本の常識...ラジルは本当に違うよ笑
+
+
+
+" (94)
+INFO 5/17/2025, 11:21:09 PM  synced recovery
+DEBUG 5/17/2025, 11:21:11 PM  added recovery 1 /home/gui/Downloads/asd.md "確かに！外国人は日本の常識を知...ラジルは本当に違うよ笑
+
+
+
+" (92)
+INFO 5/17/2025, 11:21:11 PM  synced recovery
+DEBUG 5/17/2025, 11:21:15 PM  added recovery 1 /home/gui/Downloads/asd.md "確かに！外国人は日本の常識を知...ラジルは本当に違うよ笑
+
+
+
+" (92)
+INFO 5/17/2025, 11:21:15 PM  synced recovery
+DEBUG 5/17/2025, 11:21:18 PM  added recovery 1 /home/gui/Downloads/asd.md "確かに！外国人は日本の常識を知...？ブラジルは本当に違うよ笑
+
+" (90)
+INFO 5/17/2025, 11:21:18 PM  synced recovery
+DEBUG 5/17/2025, 11:21:20 PM  license.show (detail ? undefined)
+INFO 5/17/2025, 11:21:20 PM  [blur] 1
+INFO 5/17/2025, 11:21:20 PM  [win] blur
+INFO 5/17/2025, 11:21:20 PM  [focus] 2
+INFO 5/17/2025, 11:21:20 PM  [blur] 2
+INFO 5/17/2025, 11:21:20 PM  [focus] 1
+INFO 5/17/2025, 11:21:20 PM  [blur] 1
+INFO 5/17/2025, 11:21:20 PM  [win] blur
+INFO 5/17/2025, 11:21:20 PM  [focus] 2
+INFO 5/17/2025, 11:21:21 PM  [focus] 1
+INFO 5/17/2025, 11:21:21 PM  [blur] 1
+INFO 5/17/2025, 11:21:21 PM  [win] blur
+INFO 5/17/2025, 11:21:21 PM  [focus] 1
+INFO 5/17/2025, 11:21:28 PM  [blur] 1
+INFO 5/17/2025, 11:21:28 PM  [win] blur
+INFO 5/17/2025, 11:26:30 PM  [focus] 1
+INFO 5/17/2025, 11:26:32 PM  [blur] 1
+INFO 5/17/2025, 11:26:32 PM  [win] blur
+INFO 5/17/2025, 11:26:35 PM  [focus] 1
+DEBUG 5/17/2025, 11:26:38 PM  added recovery 1 /home/gui/Downloads/asd.md  (0)
+INFO 5/17/2025, 11:26:38 PM  synced recovery
+INFO 5/17/2025, 11:26:40 PM  synced recovery
+INFO 5/17/2025, 11:26:40 PM  ----------------before-quit-----------------
+INFO 5/17/2025, 11:26:40 PM  ------------------will-quit------------------
+INFO 5/17/2025, 11:26:40 PM  -----------------quit------------------
+INFO 5/17/2025, 11:26:40 PM  closeLogging
+INFO 5/19/2025, 5:35:16 PM  launch with argv [/usr/share/typora/Typora]
+INFO 5/19/2025, 5:35:17 PM  ------------------start------------------
+DEBUG 5/19/2025, 5:35:17 PM  prepDatabase /home/gui/.config/Typora/profile.data
+DEBUG 5/19/2025, 5:35:17 PM  prepDatabase /home/gui/.config/Typora/history.data
+INFO 5/19/2025, 5:35:17 PM  OS is linux 6.14.5-arch1-1
+INFO 5/19/2025, 5:35:17 PM  start LM in devVersion=false
+INFO 5/19/2025, 5:35:17 PM  [watch L]
+DEBUG 5/19/2025, 5:35:17 PM  prepDatabase /home/gui/.config/Typora/SX6SalfPSx
+INFO 5/19/2025, 5:35:17 PM  ls put SLicense
+DEBUG 5/19/2025, 5:35:17 PM  onUnfillLicense
+DEBUG 5/19/2025, 5:35:17 PM  trailRemains is 13
+INFO 5/19/2025, 5:35:17 PM  [L] installDate is 5/17/2025, trail remains: 13 days
+INFO 5/19/2025, 5:35:17 PM  [watch L] hasL: false
+INFO 5/19/2025, 5:35:17 PM  typora version: 1.10.8
+user-dict.json not found
+DEBUG 5/19/2025, 5:35:17 PM  app.openFile
+DEBUG 5/19/2025, 5:35:17 PM  added recovery 1 null  (0)
+DEBUG 5/19/2025, 5:35:17 PM  putAccelerator File -> &File
+DEBUG 5/19/2025, 5:35:17 PM  putAccelerator Edit -> &Edit
+DEBUG 5/19/2025, 5:35:17 PM  putAccelerator Paragraph -> &Paragraph
+DEBUG 5/19/2025, 5:35:17 PM  putAccelerator Format -> F&ormat
+DEBUG 5/19/2025, 5:35:17 PM  putAccelerator View -> &View
+DEBUG 5/19/2025, 5:35:17 PM  putAccelerator Themes -> &Themes
+DEBUG 5/19/2025, 5:35:17 PM  putAccelerator Help -> &Help
+INFO 5/19/2025, 5:35:17 PM  [focus] 1
+INFO 5/19/2025, 5:35:17 PM  synced recovery
+INFO 5/19/2025, 5:35:18 PM  [blur] 1
+INFO 5/19/2025, 5:35:18 PM  [win] blur
+DEBUG 5/19/2025, 5:35:19 PM  onUnfillLicense
+INFO 5/19/2025, 5:35:19 PM  handle document.loadData
+DEBUG 5/19/2025, 5:35:19 PM  document.loadData 0
+ERROR 5/19/2025, 5:35:19 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/19/2025, 5:35:19 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/19/2025, 5:35:19 PM  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 5/19/2025, 5:35:19 PM  [RenderProcess 1][Log] reset NodeMap
+DEBUG 5/19/2025, 5:35:19 PM  added recovery 1   (0)
+INFO 5/19/2025, 5:35:19 PM  synced recovery
+INFO 5/19/2025, 5:35:20 PM  [RenderProcess 1][Log] onBecomeActive
+INFO 5/19/2025, 5:35:20 PM  [RenderProcess 1][Log] File.activeWindow = true
+INFO 5/19/2025, 5:35:32 PM  [focus] 1
+DEBUG 5/19/2025, 5:35:34 PM  added recovery 1  a
+
+wdasd (8)
+INFO 5/19/2025, 5:35:34 PM  synced recovery
+DEBUG 5/19/2025, 5:35:36 PM  added recovery 1  / (1)
+INFO 5/19/2025, 5:35:36 PM  synced recovery
+DEBUG 5/19/2025, 5:35:38 PM  added recovery 1  \\\\ (4)
+INFO 5/19/2025, 5:35:38 PM  synced recovery
+DEBUG 5/19/2025, 5:35:41 PM  added recovery 1   (0)
+INFO 5/19/2025, 5:35:41 PM  synced recovery
+INFO 5/19/2025, 5:35:41 PM  [blur] 1
+INFO 5/19/2025, 5:35:41 PM  [win] blur
+INFO 5/19/2025, 5:35:46 PM  [focus] 1
+DEBUG 5/19/2025, 5:35:49 PM  added recovery 1  あああああああ (7)
+INFO 5/19/2025, 5:35:49 PM  synced recovery
+DEBUG 5/19/2025, 5:35:51 PM  added recovery 1  あああああああああああ (11)
+INFO 5/19/2025, 5:35:51 PM  synced recovery
+DEBUG 5/19/2025, 5:35:54 PM  added recovery 1  ｋ (1)
+INFO 5/19/2025, 5:35:54 PM  synced recovery
+DEBUG 5/19/2025, 5:36:00 PM  added recovery 1  さちか (3)
+INFO 5/19/2025, 5:36:00 PM  synced recovery
+DEBUG 5/19/2025, 5:36:01 PM  added recovery 1  さちか (3)
+INFO 5/19/2025, 5:36:01 PM  synced recovery
+DEBUG 5/19/2025, 5:36:05 PM  added recovery 1  さちかは俺の彼女です (10)
+INFO 5/19/2025, 5:36:05 PM  synced recovery
+DEBUG 5/19/2025, 5:36:08 PM  added recovery 1  さちかは俺の彼女ですは (11)
+INFO 5/19/2025, 5:36:08 PM  synced recovery
+DEBUG 5/19/2025, 5:36:12 PM  added recovery 1  さちかは俺の彼女です❤ (11)
+INFO 5/19/2025, 5:36:12 PM  synced recovery
+INFO 5/19/2025, 5:36:13 PM  [blur] 1
+INFO 5/19/2025, 5:36:13 PM  [win] blur
+INFO 5/19/2025, 5:36:16 PM  [focus] 1
+INFO 5/19/2025, 5:36:17 PM  [blur] 1
+INFO 5/19/2025, 5:36:17 PM  [win] blur
+DEBUG 5/19/2025, 5:36:17 PM  added recovery 1   (0)
+INFO 5/19/2025, 5:36:17 PM  synced recovery
+INFO 5/19/2025, 5:36:39 PM  [focus] 1
+INFO 5/19/2025, 5:36:40 PM  [blur] 1
+INFO 5/19/2025, 5:36:40 PM  [win] blur
+INFO 5/19/2025, 5:46:27 PM  [focus] 1
+DEBUG 5/19/2025, 5:46:31 PM  added recovery 1   (0)
+INFO 5/19/2025, 5:46:31 PM  synced recovery
+INFO 5/19/2025, 5:46:36 PM  [blur] 1
+INFO 5/19/2025, 5:46:36 PM  [win] blur
+INFO 5/19/2025, 5:46:38 PM  [focus] 1
+INFO 5/19/2025, 5:46:41 PM  synced recovery
+INFO 5/19/2025, 5:46:41 PM  ----------------before-quit-----------------
+INFO 5/19/2025, 5:46:41 PM  ------------------will-quit------------------
+INFO 5/19/2025, 5:46:41 PM  -----------------quit------------------
+INFO 5/19/2025, 5:46:41 PM  closeLogging
+INFO 5/21/2025, 12:34:09 PM  launch with argv [/usr/share/typora/Typora]
+INFO 5/21/2025, 12:34:09 PM  ------------------start------------------
+DEBUG 5/21/2025, 12:34:09 PM  prepDatabase /home/gui/.config/Typora/profile.data
+DEBUG 5/21/2025, 12:34:09 PM  prepDatabase /home/gui/.config/Typora/history.data
+INFO 5/21/2025, 12:34:09 PM  OS is linux 6.14.5-arch1-1
+INFO 5/21/2025, 12:34:09 PM  start LM in devVersion=false
+INFO 5/21/2025, 12:34:09 PM  [watch L]
+DEBUG 5/21/2025, 12:34:09 PM  prepDatabase /home/gui/.config/Typora/SX6SalfPSx
+INFO 5/21/2025, 12:34:09 PM  ls put SLicense
+DEBUG 5/21/2025, 12:34:09 PM  onUnfillLicense
+DEBUG 5/21/2025, 12:34:09 PM  trailRemains is 12
+INFO 5/21/2025, 12:34:09 PM  [L] installDate is 5/17/2025, trail remains: 12 days
+INFO 5/21/2025, 12:34:09 PM  [watch L] hasL: false
+INFO 5/21/2025, 12:34:09 PM  typora version: 1.10.8
+user-dict.json not found
+DEBUG 5/21/2025, 12:34:09 PM  app.openFile
+DEBUG 5/21/2025, 12:34:10 PM  added recovery 1 null  (0)
+INFO 5/21/2025, 12:34:10 PM  [focus] 1
+DEBUG 5/21/2025, 12:34:10 PM  putAccelerator File -> &File
+DEBUG 5/21/2025, 12:34:10 PM  putAccelerator Edit -> &Edit
+DEBUG 5/21/2025, 12:34:10 PM  putAccelerator Paragraph -> &Paragraph
+DEBUG 5/21/2025, 12:34:10 PM  putAccelerator Format -> F&ormat
+DEBUG 5/21/2025, 12:34:10 PM  putAccelerator View -> &View
+DEBUG 5/21/2025, 12:34:10 PM  putAccelerator Themes -> &Themes
+DEBUG 5/21/2025, 12:34:10 PM  putAccelerator Help -> &Help
+INFO 5/21/2025, 12:34:10 PM  synced recovery
+DEBUG 5/21/2025, 12:34:11 PM  onUnfillLicense
+INFO 5/21/2025, 12:34:11 PM  handle document.loadData
+DEBUG 5/21/2025, 12:34:11 PM  document.loadData 0
+ERROR 5/21/2025, 12:34:11 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 5/21/2025, 12:34:11 PM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 5/21/2025, 12:34:11 PM  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 5/21/2025, 12:34:11 PM  [RenderProcess 1][Log] reset NodeMap
+DEBUG 5/21/2025, 12:34:12 PM  added recovery 1   (0)
+INFO 5/21/2025, 12:34:12 PM  synced recovery
+INFO 5/21/2025, 12:34:12 PM  [RenderProcess 1][Log] onBecomeActive
+INFO 5/21/2025, 12:34:12 PM  [RenderProcess 1][Log] File.activeWindow = true
+INFO 5/21/2025, 12:34:13 PM  [blur] 1
+INFO 5/21/2025, 12:34:13 PM  [win] blur
+INFO 5/21/2025, 12:34:15 PM  [focus] 1
+INFO 5/21/2025, 12:34:19 PM  [blur] 1
+INFO 5/21/2025, 12:34:19 PM  [win] blur
+INFO 5/21/2025, 12:34:19 PM  [focus] 1
+INFO 5/21/2025, 12:34:21 PM  [blur] 1
+INFO 5/21/2025, 12:34:21 PM  [win] blur
+INFO 5/21/2025, 12:34:26 PM  [focus] 1
+DEBUG 5/21/2025, 12:34:28 PM  added recovery 1  "Cheguei lá a mo...ha do univirtus" (174)
+INFO 5/21/2025, 12:34:28 PM  synced recovery
+DEBUG 5/21/2025, 12:34:30 PM  added recovery 1  "Cheguei lá a mo...ha do univirtus" (171)
+INFO 5/21/2025, 12:34:30 PM  synced recovery
+DEBUG 5/21/2025, 12:34:31 PM  added recovery 1  "Cheguei lá a mo...ha do univirtus" (171)
+INFO 5/21/2025, 12:34:31 PM  synced recovery
+INFO 5/21/2025, 12:34:31 PM  [blur] 1
+INFO 5/21/2025, 12:34:31 PM  [win] blur
+INFO 5/21/2025, 12:34:42 PM  [focus] 1
+DEBUG 5/21/2025, 12:34:44 PM  added recovery 1  "Cheguei lá a mo...ei pensar muito" (450)
+INFO 5/21/2025, 12:34:44 PM  synced recovery
+DEBUG 5/21/2025, 12:34:52 PM  added recovery 1  "Cheguei lá a mo...ei pensar muito" (444)
+INFO 5/21/2025, 12:34:52 PM  synced recovery
+INFO 5/21/2025, 12:34:53 PM  [blur] 1
+INFO 5/21/2025, 12:34:53 PM  [win] blur
+INFO 5/21/2025, 12:34:58 PM  [focus] 1
+DEBUG 5/21/2025, 12:35:00 PM  added recovery 1  "Cheguei lá a mo... vezes seguidas" (589)
+INFO 5/21/2025, 12:35:00 PM  synced recovery
+DEBUG 5/21/2025, 12:35:02 PM  added recovery 1  "Cheguei lá a mo... vezes seguidas" (586)
+INFO 5/21/2025, 12:35:02 PM  synced recovery
+INFO 5/21/2025, 12:35:03 PM  [blur] 1
+INFO 5/21/2025, 12:35:03 PM  [win] blur
+INFO 5/21/2025, 12:35:08 PM  [focus] 1
+INFO 5/21/2025, 12:35:10 PM  [blur] 1
+INFO 5/21/2025, 12:35:10 PM  [win] blur
+INFO 5/21/2025, 12:35:15 PM  [focus] 1
+DEBUG 5/21/2025, 12:35:18 PM  added recovery 1  "Cheguei lá a mo...era conjunção
+
+" (653)
+INFO 5/21/2025, 12:35:18 PM  synced recovery
+INFO 5/21/2025, 12:35:18 PM  [blur] 1
+INFO 5/21/2025, 12:35:18 PM  [win] blur
+INFO 5/21/2025, 12:35:33 PM  [focus] 1
+DEBUG 5/21/2025, 12:35:35 PM  added recovery 1  "Cheguei lá a mo...y = x e y sabe?" (672)
+INFO 5/21/2025, 12:35:35 PM  synced recovery
+INFO 5/21/2025, 12:35:36 PM  [blur] 1
+INFO 5/21/2025, 12:35:36 PM  [win] blur
+INFO 5/21/2025, 12:35:39 PM  [focus] 1
+INFO 5/21/2025, 12:35:42 PM  [blur] 1
+INFO 5/21/2025, 12:35:42 PM  [win] blur
+DEBUG 5/21/2025, 12:35:42 PM  added recovery 1  "Cheguei lá a mo...arecer também
+
+" (715)
+INFO 5/21/2025, 12:35:42 PM  synced recovery
+INFO 5/21/2025, 12:35:47 PM  [focus] 1
+DEBUG 5/21/2025, 12:35:54 PM  added recovery 1  "Cheguei lá a mo...x que é sucesso" (806)
+INFO 5/21/2025, 12:35:54 PM  synced recovery
+INFO 5/21/2025, 12:36:02 PM  [blur] 1
+INFO 5/21/2025, 12:36:02 PM  [win] blur
+INFO 5/21/2025, 12:36:32 PM  [focus] 1
+INFO 5/21/2025, 12:36:34 PM  [blur] 1
+INFO 5/21/2025, 12:36:34 PM  [win] blur
+INFO 5/21/2025, 12:36:39 PM  [focus] 1
+INFO 5/21/2025, 12:36:42 PM  [blur] 1
+INFO 5/21/2025, 12:36:42 PM  [win] blur
+INFO 5/21/2025, 12:36:49 PM  [focus] 1
+DEBUG 5/21/2025, 12:36:51 PM  added recovery 1  "Cheguei lá a mo...a abrir as duas" (854)
+INFO 5/21/2025, 12:36:51 PM  synced recovery
+INFO 5/21/2025, 12:36:51 PM  [blur] 1
+INFO 5/21/2025, 12:36:51 PM  [win] blur
+INFO 5/21/2025, 12:37:43 PM  [focus] 1
+INFO 5/21/2025, 12:37:45 PM  [blur] 1
+INFO 5/21/2025, 12:37:45 PM  [win] blur
+INFO 5/21/2025, 12:39:14 PM  [focus] 1
+DEBUG 5/21/2025, 12:39:17 PM  added recovery 1   (0)
+INFO 5/21/2025, 12:39:17 PM  synced recovery
+INFO 5/21/2025, 12:39:19 PM  synced recovery
+INFO 5/21/2025, 12:39:19 PM  ----------------before-quit-----------------
+INFO 5/21/2025, 12:39:19 PM  ------------------will-quit------------------
+INFO 5/21/2025, 12:39:19 PM  -----------------quit------------------
+INFO 5/21/2025, 12:39:19 PM  closeLogging

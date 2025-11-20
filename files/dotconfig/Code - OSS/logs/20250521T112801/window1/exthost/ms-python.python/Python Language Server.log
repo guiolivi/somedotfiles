@@ -1,0 +1,131 @@
+2025-05-21 11:30:36.193 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "1"
+
+2025-05-21 11:31:11.317 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "11"
+
+2025-05-21 11:31:32.335 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "23"
+
+2025-05-21 11:31:55.739 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "87"
+
+2025-05-21 11:31:55.741 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "88"
+
+2025-05-21 11:33:16.853 [info] ERROR:pygls.protocol.json_rpc:Failed to handle request 177 textDocument/codeAction CodeActionParams(text_document=TextDocumentIdentifier(uri='file:///home/gui/programming/Python/primeiro%20programa/saisho.py'), range=2:18-2:18, context=CodeActionContext(diagnostics=[], only=None, trigger_kind=<CodeActionTriggerKind.Automatic: 2>), work_done_token=None, partial_result_token=None)
+Traceback (most recent call last):
+  File "/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/lib/jedilsp/pygls/protocol/json_rpc.py", line 266, in _handle_request
+    self._execute_request(msg_id, handler, params)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/lib/jedilsp/pygls/protocol/json_rpc.py", line 188, in _execute_request
+    self._send_response(msg_id, handler(params))
+                                ~~~~~~~^^^^^^^^
+  File "/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/lib/jedilsp/jedi_language_server/server.py", line 605, in code_action
+    extract_variable_refactoring = jedi_script.extract_variable(
+        new_name=extract_var, **jedi_lines_extract
+    )
+  File "/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/lib/jedilsp/jedi/api/helpers.py", line 487, in wrapper
+    return func(self, line, column, *args, **kwargs)
+  File "/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/lib/jedilsp/jedi/api/__init__.py", line 628, in extract_variable
+    return extract_variable(
+        self._inference_state, self.path, self._module_node,
+        new_name, (line, column), until_pos
+    )
+  File "/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 19, in extract_variable
+    nodes = _find_nodes(module_node, pos, until_pos)
+  File "/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 87, in _find_nodes
+    nodes = _remove_unwanted_expression_nodes(parent_node, pos, until_pos)
+  File "/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 198, in _remove_unwanted_expression_nodes
+    nodes[0:1] = _remove_unwanted_expression_nodes(nodes[0], pos, until_pos)
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/gui/.vscode-oss/extensions/ms-python.python-2025.4.0-universal/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 196, in _remove_unwanted_expression_nodes
+    nodes = nodes[start_index:end_index + 1]
+                  ^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+
+2025-05-21 11:33:16.885 [info] [Error - 11:33:16 AM] Request textDocument/codeAction failed.
+2025-05-21 11:33:16.885 [info]   Message: UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+  Code: -32603 
+[object Object]
+2025-05-21 11:33:35.239 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "227"
+
+2025-05-21 11:33:48.357 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "277"
+
+2025-05-21 11:33:53.226 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "303"
+
+2025-05-21 11:34:32.281 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "397"
+
+2025-05-21 11:35:03.474 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "479"
+
+2025-05-21 11:35:58.011 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "630"
+
+2025-05-21 11:36:20.692 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "688"
+
+2025-05-21 11:36:39.797 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "752"
+
+2025-05-21 11:37:58.461 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "910"
+
+2025-05-21 11:39:39.669 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "988"
+
+2025-05-21 11:39:51.976 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "1020"
+
+2025-05-21 11:40:48.904 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "1100"
+
+2025-05-21 11:43:25.550 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "1215"
+
+2025-05-21 11:43:28.842 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "1225"
+
+2025-05-21 11:43:50.815 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "1270"
+
+2025-05-21 11:45:00.814 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "1380"
+
+2025-05-21 11:45:27.624 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "1427"
+
+2025-05-21 11:53:17.684 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "1601"
+
+2025-05-21 11:56:17.480 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "1783"
+
+2025-05-21 11:56:22.996 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "1799"
+
+2025-05-21 11:58:01.477 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "1877"
+
+2025-05-21 11:58:39.229 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "1912"
+
+2025-05-21 11:58:40.794 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "1917"
+
+2025-05-21 12:00:39.343 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "1973"
+
+2025-05-21 12:42:06.834 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "2017"
+
+2025-05-21 12:42:09.881 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "2021"
+
+2025-05-21 12:43:57.178 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "2222"
+
+2025-05-21 12:44:00.522 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "2227"
+
+2025-05-21 12:44:20.207 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "2260"
+
+2025-05-21 12:44:34.512 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "2312"
+
+2025-05-21 12:45:51.128 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "2355"
+
+2025-05-21 12:45:51.557 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "2357"
+
+2025-05-21 12:46:01.283 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "2390"
+
+2025-05-21 12:46:01.766 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "2392"
+
+2025-05-21 12:46:17.806 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "2441"
+
+2025-05-21 12:46:21.154 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "2455"
+
+2025-05-21 12:56:56.306 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "2494"
+
+2025-05-21 12:58:10.515 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "2594"
+
+2025-05-21 13:00:05.781 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "2718"
+
+2025-05-21 13:01:01.999 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "2873"
+
+2025-05-21 13:45:29.558 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "3032"
+
+2025-05-21 13:45:33.435 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "3045"
+
+2025-05-21 13:49:02.365 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "3264"
+

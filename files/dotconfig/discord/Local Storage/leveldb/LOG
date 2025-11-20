@@ -1,0 +1,31 @@
+2025/05/12-16:13:25.775 524 Reusing MANIFEST /home/gui/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/05/12-16:13:25.821 524 Recovering log #4
+2025/05/12-16:13:25.891 524 Reusing old log /home/gui/.config/discord/Local Storage/leveldb/000004.log 
+2025/05/12-16:18:28.846 525 Level-0 table #8: started
+2025/05/12-16:18:29.035 525 Level-0 table #8: 3603374 bytes OK
+2025/05/12-16:18:29.095 525 Delete type=0 #4
+2025/05/12-16:31:33.417 525 Level-0 table #10: started
+2025/05/12-16:31:33.477 525 Level-0 table #10: 37554 bytes OK
+2025/05/12-16:31:33.544 525 Delete type=0 #7
+2025/05/12-16:43:33.418 525 Level-0 table #12: started
+2025/05/12-16:43:33.462 525 Level-0 table #12: 33158 bytes OK
+2025/05/12-16:43:33.512 525 Delete type=0 #9
+2025/05/12-17:29:33.418 525 Level-0 table #14: started
+2025/05/12-17:29:33.562 525 Level-0 table #14: 14854 bytes OK
+2025/05/12-17:29:33.692 525 Delete type=0 #11
+2025/05/12-18:14:33.417 525 Level-0 table #16: started
+2025/05/12-18:14:33.469 525 Level-0 table #16: 14486 bytes OK
+2025/05/12-18:14:33.536 525 Delete type=0 #13
+2025/05/12-18:14:33.537 525 Compacting 4@0 + 1@1 files
+2025/05/12-18:14:33.728 525 Generated table #17@0: 14 keys, 2532003 bytes
+2025/05/12-18:14:33.828 525 Generated table #18@0: 100 keys, 1062116 bytes
+2025/05/12-18:14:33.828 525 Compacted 4@0 + 1@1 files => 3594119 bytes
+2025/05/12-18:14:33.878 525 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/12-18:14:33.878 525 Delete type=2 #8
+2025/05/12-18:14:33.878 525 Delete type=2 #10
+2025/05/12-18:14:33.879 525 Delete type=2 #12
+2025/05/12-18:14:33.879 525 Delete type=2 #14
+2025/05/12-18:14:33.879 525 Delete type=2 #16
+2025/05/12-18:36:33.418 525 Level-0 table #20: started
+2025/05/12-18:36:33.468 525 Level-0 table #20: 34814 bytes OK
+2025/05/12-18:36:33.535 525 Delete type=0 #15

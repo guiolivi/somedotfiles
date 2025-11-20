@@ -1,0 +1,17 @@
+2025-05-10 21:41:53.563 [error] Error: The editor could not be opened because the file was not found.
+    at ySe.gc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2163:120185)
+    at async ySe.setInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2163:119343)
+    at async XHe.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:685:19756)
+    at async XHe.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:685:18311)
+    at async XHe.openEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:685:17393)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:797:23342
+2025-05-10 21:41:53.660 [info] Started local extension host with pid 21588.
+2025-05-10 21:41:54.207 [info] ComputeTargetPlatform: linux-x64
+2025-05-10 21:41:56.692 [info] [perf] Render performance baseline is 41ms
+2025-05-10 21:41:58.027 [error] Error: The editor could not be opened because the file was not found.
+    at ySe.gc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2163:120185)
+    at async ySe.setInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2163:119343)
+    at async XHe.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:685:19756)
+    at async XHe.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:685:18311)
+    at async XHe.openEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:685:17393)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:797:23342

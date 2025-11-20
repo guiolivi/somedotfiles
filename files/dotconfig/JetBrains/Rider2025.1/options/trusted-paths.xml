@@ -1,0 +1,11 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/programming" value="true" />
+        <entry key="$USER_HOME$/programming/CSharp" value="true" />
+        <entry key="$USER_HOME$/programming/CSharp/.idea/.idea.CSharp.dir" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

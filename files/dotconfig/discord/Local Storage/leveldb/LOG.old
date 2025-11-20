@@ -1,0 +1,5 @@
+2025/05/11-14:31:27.421 16ea Creating DB /home/gui/.config/discord/Local Storage/leveldb since it was missing.
+2025/05/11-14:31:27.662 16ea Reusing MANIFEST /home/gui/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/05/11-14:36:35.531 16eb Level-0 table #5: started
+2025/05/11-14:36:35.749 16eb Level-0 table #5: 3591049 bytes OK
+2025/05/11-14:36:35.817 16eb Delete type=0 #3

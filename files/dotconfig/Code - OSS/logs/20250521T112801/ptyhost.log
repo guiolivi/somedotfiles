@@ -1,0 +1,1 @@
+2025-05-21 11:30:54.784 [error] Failed to set sticky bit on /tmp/gui-code-oss-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/gui-code-oss-zsh'

@@ -1,0 +1,10 @@
+<application>
+  <component name="TrustedSolutionStore">
+    <option name="trustedLocations">
+      <set>
+        <option value="$USER_HOME$/programming" />
+        <option value="$USER_HOME$/programming/CSharp/.idea/.idea.CSharp.dir" />
+      </set>
+    </option>
+  </component>
+</application>

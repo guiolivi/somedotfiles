@@ -1,0 +1,34 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="ActivateCommitToolWindow">
+      <i c="2" l="1747365920120" />
+    </e>
+    <e n="ActivateDebugToolWindow">
+      <i c="1" l="1746992144460" />
+    </e>
+    <e n="ActivateUnitTestsToolWindow">
+      <i c="1" l="1746992130227" />
+    </e>
+    <e n="RiderOpenSolution">
+      <i c="1" l="1746991917804" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="1" l="1746992401080" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="2" l="1747365810223" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1747365968512" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1746992403218" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="28" l="1747365969577" />
+    </e>
+    <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
+      <i c="6" l="1747365916294" />
+    </e>
+  </component>
+</application>

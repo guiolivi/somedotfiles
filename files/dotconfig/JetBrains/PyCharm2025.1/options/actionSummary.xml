@@ -1,0 +1,79 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="1" l="1747833657158" />
+    </e>
+    <e n="$SelectAll">
+      <i c="2" l="1747837352724" />
+    </e>
+    <e n="$Undo">
+      <i c="3" l="1747837397577" />
+    </e>
+    <e n="ActivateCommitToolWindow">
+      <i c="1" l="1747833669597" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="32" l="1747837389712" />
+    </e>
+    <e n="EditorEnter">
+      <i c="5" l="1747837402895" />
+    </e>
+    <e n="EditorLeft">
+      <i c="1" l="1747836435906" />
+    </e>
+    <e n="EditorRight">
+      <i c="4" l="1747837380410" />
+    </e>
+    <e n="EditorTab">
+      <i c="2" l="1747837383922" />
+    </e>
+    <e n="EditorUp">
+      <i c="1" l="1747837371027" />
+    </e>
+    <e n="FileChooser.NewFolder">
+      <i c="1" l="1747833619025" />
+    </e>
+    <e n="InsertInlineCompletionAction">
+      <i c="1" l="1747836445661" />
+    </e>
+    <e n="NewDir">
+      <i c="1" l="1747836236782" />
+    </e>
+    <e n="NewPythonFile">
+      <i c="1" l="1747836245359" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="1" l="1747836503181" />
+    </e>
+    <e n="Run">
+      <i c="3" l="1747837360574" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1747836402490" />
+    </e>
+    <e n="WelcomeScreen.ManageLicense">
+      <i c="1" l="1747750102092" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1747833607220" />
+    </e>
+    <e n="com.intellij.execution.ui.RunToolbarPopupKt$createCurrentFileWithInlineActions$2">
+      <i c="1" l="1747836506131" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="2" l="1747833649673" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="9" l="1747836475081" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="1" l="1747836384894" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
+      <i c="1" l="1747750098598" />
+    </e>
+    <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
+      <i c="1" l="1747833664747" />
+    </e>
+  </component>
+</application>

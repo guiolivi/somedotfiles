@@ -1,0 +1,7 @@
+2025-05-21 19:36:37.633 [info] update#setState disabled
+2025-05-21 19:36:37.633 [info] update#ctor - updates are disabled as there is no update URL
+2025-05-21 19:37:00.316 [warning] No ptyHost heartbeat after 6 seconds
+2025-05-21 19:37:05.318 [error] No ptyHost heartbeat after 12 seconds
+2025-05-21 19:37:42.589 [info] Extension host with pid 12835 exited with code: 0, signal: unknown.
+2025-05-21 19:37:49.951 [warning] [storage main] detected slow close() operation: Time: 10213ms, DB size: 155648b, Large Keys: iconThemeData:96314, colorThemeData:14254, ms-python.python:2675, __$__targetStorageMarker:1732, workbench.view.extensions.state.hidden:1674
+2025-05-21 19:37:51.325 [warning] [storage main] detected slow close() operation: Time: 11587ms, DB size: 36864b, Large Keys: workbench.view.extensions.state:2015, __$__targetStorageMarker:1729, memento/workbench.editors.files.textFileEditor:1394, memento/workbench.parts.editor:1346, terminal.integrated.environmentVariableCollectionsV2:1093

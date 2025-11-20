@@ -1,0 +1,26 @@
+<application>
+  <component name="RiderRecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/programming">
+          <value>
+            <RecentProjectMetaInfo displayName="programming" frameTitle="programming" opened="true" projectWorkspaceId="2wxn7Ldrvg8BJPkVY4xckXSRwCQ">
+              <option name="activationTimestamp" value="1747365900308" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-251.25410.119" />
+              <option name="buildTimestamp" value="1746614880000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="0" y="0" width="1920" height="1045" />
+              <option name="metadata" value="programming|" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1747365800256" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/programming" />
+  </component>
+</application>

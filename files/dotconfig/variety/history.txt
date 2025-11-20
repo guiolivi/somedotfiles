@@ -1,0 +1,8 @@
+0
+/home/gui/.config/variety/Downloaded/Unsplash/photo-1746535907937-b5022cc4206d.jpg
+/home/gui/.config/variety/Downloaded/Unsplash/photo-1745172366995-a55968e94797.jpg
+/home/gui/.config/variety/Downloaded/Unsplash/photo-1746535907937-b5022cc4206d.jpg
+/home/gui/.config/variety/Downloaded/Unsplash/photo-1745172366995-a55968e94797.jpg
+/home/gui/.config/variety/Downloaded/Unsplash/photo-1744826874736-54ec3ff61a7b.jpg
+/home/gui/Wallpaper/KaonKurarin.jpg
+/usr/share/backgrounds/gnome/adwaita-l.jpg
